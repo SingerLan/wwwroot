@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<TITLE>最近上映{searchpage:typename},热门{searchpage:typename},{searchpage:typename}下载 - {seacms:sitename} - {seacms:sitenotice}</TITLE>
+	<meta name="keywords" content="最近上映{searchpage:typename},热门{searchpage:typename},{searchpage:typename}下载">
+	<meta name="description" content="{seacms:des}">
+	{seacms:load head_include.html}
+</head>
+	{seacms:top}
+	<div class="container">
+		<div class="row">
+			<div class="tag-box">
+				<table class="table" style="margin-bottom:10px;">
+					<tbody>
+						<tr>
+							<td class="tag-span2">按剧情：</td>
+							<td class="tags">
+								{seacms:jqitemlist}<a href='[jqitemlist:link]'{if: [jqitemlist:value]={searchpage:jq}}class="tag active"{else}class="tag"{end if}>[jqitemlist:value]</a> {/seacms:jqitemlist}
+							</td>
+						</tr>
+						<tr>
+							<td class="tag-span2">按地区：</td>
+							<td class="tags">
+								{seacms:areaitemlist}<a href='[areaitemlist:link]' {if: [areaitemlist:value]={searchpage:area}}class="tag active"{else}class="tag"{end if}>[areaitemlist:value]</a> {/seacms:areaitemlist}            
+							</td>
+						</tr>
+						<tr>
+							<td class="tag-span2">按年代：</td>
+							<td class="tags">			
+								{seacms:yearitemlist}<a href='[yearitemlist:link]'{if: [yearitemlist:value]={searchpage:year}}class="tag active"{else}class="tag"{end if}>[yearitemlist:value]</a> {/seacms:yearitemlist}
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div class="col-xs-12" style="padding:0 5px;">
+				{seacms:cascadelist size=35 order=time}
+				<div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+					<div class="movie-item-in">
+						<a style="position:relative;display:block;" title="[cascadelist:name] " target="_blank" href="[cascadelist:link]">
+							<img alt="[cascadelist:name] " title="[cascadelist:name] " src="[cascadelist:pic]" height="230" width="100%">
+							<span class="qtag">{if:[cascadelist:state]==0}[cascadelist:ver]{else}更新至[cascadelist:state]集{end if}</span>
+							<div class="item-hover"></div>
+						</a>
+						<div class="meta">
+							<h4><a href="[cascadelist:link]" target="_blank" title="[cascadelist:name] " class="movie-name">[cascadelist:name] </a><em> - [cascadelist:douban]分</em></h4>
+							<div class="otherinfo">类型：[cascadelist:jqtype]</div>
+						</div>    
+					</div>
+				</div>
+				{/seacms:cascadelist}
+			</div>
+		</div>
+		<div class="pager-bg">
+			<ul class="pagination pagination-sm">{if:{cascadelist:page}>1}<li><a href="{cascadelist:backlink}">上一页</a></li>{end if}
+				{cascadelist:pagenumber len=8}
+				<li {if:{cascadelist:page}=[pagenumber:page]}class="active"{end if}><a href="[pagenumber:link]">[pagenumber:page]</a></li>
+				{/cascadelist:pagenumber}
+				{if:{cascadelist:pagecount}>1}
+				<li><a href="{cascadelist:nextlink}">下一页</a></li>
+				<li><a href="{cascadelist:lastlink}">末页</a></li>
+				{end if}
+			</ul>
+		</div>
+
+	</div><!-- end container -->
+	{seacms:foot}
+</body>
+</html>

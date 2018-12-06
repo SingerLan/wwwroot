@@ -1,0 +1,29 @@
+<div class="hy-head-menu">
+	<div class="container">
+	    <div class="row">
+		  	<div class="item">
+			    <div class="logo hidden-sm hidden-xs">
+					<a class="" href="{seacms:indexlink}"><img src="images/logo.png" /></a>										  
+				</div>	
+				<div class="logo visible-sm visible-xs" style="background-color:#f1f1f1;">
+		  			<a class="visible-sm visible-xs" href="{seacms:indexlink}"><img src="images/logo_min.png" /></a>											  
+				</div>	
+				<div class="search"> 
+			        <form name="formsearch" id="formsearch" action='/{seacms:sitepath}search.php' method="post" autocomplete="off">																			
+						<input class="form-control" placeholder="输入影片关键词..." name="searchword" type="text" id="keyword" required="">
+						<input type="submit" id="searchbutton" value="" class="hide">
+						<a href="javascript:" class="btns" title="搜索" onClick="$('#formsearch').submit();"><i class="icon iconfont icon-search"></i></a>
+					</form>
+			   </div>			   
+			   <ul class="menulist hidden-xs">
+					<li><a href="{seacms:indexlink}">首页</a></li>
+					{seacms:menulist type=top}					
+					<li{if:[menulist:typeid]={seacms:currenttypeid}} class="active"{elseif:[menulist:typeid]={playpage:upid}} class="active"{end if}><a href="[menulist:link]">  [menulist:typename]</a></li>						  
+					{/seacms:menulist}	
+					<li><a href="{seacms:newslink} ">资讯</a></li>
+					<li>{seacms:member}</li>
+				</ul>													 
+		  	</div>							
+	    </div>
+	</div>
+</div>

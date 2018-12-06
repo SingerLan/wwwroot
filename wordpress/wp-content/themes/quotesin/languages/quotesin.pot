@@ -1,0 +1,165 @@
+# Copyright (C) 2018 Suviplus
+# This file is distributed under the GNU General Public License v2 or later.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-04-27 09:21+0530\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:26
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:29
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:35
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:26
+msgid "Primary"
+msgstr ""
+
+#: functions.php:28
+msgid "Social"
+msgstr ""
+
+#: functions.php:99
+msgid "Footer"
+msgstr ""
+
+#: functions.php:101
+msgid "Add widgets here."
+msgstr ""
+
+#: no-results.php:9
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: no-results.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:24
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:24 inc/template-tags.php:50
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:36
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-tags.php:100
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:105
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:130
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:134
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: inc/template-tags.php:135
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:161
+#, php-format
+msgctxt "post date"
+msgid "Date: %s"
+msgstr ""
+
+#: template-parts/content-none.php:15
+msgid "That page can&rsquo;t be found."
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid ""
+"It looks like nothing was found at this location. Please try searching for "
+"the content"
+msgstr ""
+
+#: template-parts/content-single.php:22 template-parts/content.php:23
+msgid "Topics: "
+msgstr ""

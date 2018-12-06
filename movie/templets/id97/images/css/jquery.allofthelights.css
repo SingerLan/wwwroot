@@ -1,0 +1,21 @@
+#switch {
+	position: absolute;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+	z-index: 200;
+	top: -5px;
+	right: -40px;
+	background: url(../switch.png) no-repeat 0 0;
+}
+#switch_off {
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+	z-index: 200;
+	background: url(../switch.png) no-repeat 0 -30px;
+}
+#switch_off:hover{
+	opacity: 0.8 !important;
+}

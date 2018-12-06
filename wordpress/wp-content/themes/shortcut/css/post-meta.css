@@ -1,0 +1,7 @@
+﻿	.zb-wrap {margin: 0;}
+	.zb-wrap>.zb-field-list>.zb-row {padding: 1.8em 0;}
+	.zb-th {border: 0;width: 18%;padding: 0 2% 0 0;color: #222;float: left;font-weight: 600;line-height: 1.3;vertical-align: top;}
+	.zb-th label {display: block;padding: 5px 0;}
+	.zb-th+.zb-td {width: 80%;float: right;margin-bottom: 0;padding: 0;line-height: 1.3;}
+	.zb-td input{width: 100%;}
+	.zb-wrap .zb-row:after {content: '';clear: both;display: block;width: 100%;}

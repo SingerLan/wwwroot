@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="/favicon.ico" />
+<title>留言板-{seacms:sitename}</title>
+<meta name="keywords" content="{seacms:sitenotice}">
+<meta name="description" content="{seacms:des}">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"/>
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="images/iconfont.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_block.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_default.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_custom.css" type="text/css"/>
+<link  rel="stylesheet" href="templets/id97/html/css/main.css" />
+<link rel="stylesheet" type="text/css" href="templets/id97/html/css/sinaFaceAndEffec.css" />
+<script type="text/javascript" src="images/jquery.min.js"></script>
+<script type="text/javascript" src="images/stui_default.js"></script>
+<script type="text/javascript">var sitePath='{seacms:sitepath}', siteUrl='{seacms:siteurl}', sitepath='{seacms:sitepath}'</script>
+<style>
+@media (max-width: 767px)
+.content{
+    weight: 80%;
+}
+</style>
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+
+<![endif]-->
+</head>
+<body>
+{seacms:top}
+		<div class="container">
+			<div class="row">	
+<div class="col-lg-wide-75 col-xs-1 padding-0">
+<div class="stui-pannel stui-pannel-bg clearfix">
+<div class="stui-pannel-box">
+					<div class="stui-pannel_hd">
+						<div class="stui-pannel__head active bottom-line clearfix">
+							<div class="nav nav-page pull-right">
+								
+							</div>
+							<span class="more text-muted pull-right hidden-xs"></span>
+							<h3 class="title"><img src="images/icon_27.png"/>留言板-共<span id="totalResultLi"></span>条留言</h3>
+						</div>
+					</div>
+</div>
+				{gbook:viewLeaveWord}
+</div>
+		</div>
+</div></div>
+{seacms:foot}
+</body>
+
+<script type="text/javascript" src="templets/id97/html/js/main.js"></script>
+<script type="text/javascript" src="templets/id97/html/js/sinaFaceAndEffec.js"></script>
+<script type="text/javascript">
+// 绑定表情
+$('.face-icon').SinaEmotion($('#m_content'));
+	// 测试本地解析
+	function leaveWord() {
+		var inputText = $('#m_content').val();
+		$('#m_content').val(AnalyticEmotion(inputText));
+$('#f_leaveword').submit();
+	}
+$(function(){
+
+$('#totalResultLi').text($('#totalResult').val());
+$('#index1').removeClass("active");
+$('#index2').addClass("active");
+});
+</script>
+</html>

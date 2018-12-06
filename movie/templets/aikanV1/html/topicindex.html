@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="/favicon.ico" />
+<title>专辑列表_第{topicindexlist:page}页_{seacms:sitename}</title>
+<meta name="keywords" content="{seacms:sitename}" />
+<meta name="description" content="{seacms:sitename}" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"/>
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="images/iconfont.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_block.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_default.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_custom.css" type="text/css"/>
+<script type="text/javascript" src="images/jquery.min.js"></script>
+<script type="text/javascript" src="images/stui_default.js"></script>
+<script type="text/javascript">var sitePath='{seacms:sitepath}', siteUrl='{seacms:siteurl}', sitepath='{seacms:sitepath}'</script>
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+{seacms:load head3.html} 
+  <div class="container">
+   <div class="row">
+    <div class="stui-pannel stui-pannel-bg clearfix">
+     <div class="stui-pannel-box">
+      <div class="stui-pannel_hd">
+       <div class="stui-pannel__head clearfix">
+        <span class="more text-muted pull-right hidden-xs">共有 {topicindexlist:recordcount} 个专题，当前第 {topicindexlist:page} 页</span>
+        <h3 class="title"><img src="images/icon_5.png" /> 热门专题</h3>
+       </div>
+      </div>
+      <div class="stui-pannel_bd">
+       <ul class="stui-vodlist clearfix">
+	   {seacms:topicindexlist size=12 order=time}
+        <li class="col-md-3 col-sm-2 col-xs-1">
+         <div class="stui-vodlist__box">
+          <a class="stui-vodlist__thumb lazyload" href="[topicindexlist:link]" alt="[topicindexlist:name]" data-original="[topicindexlist:pic]" style=" padding-top: 50%;"><span class="play hidden-xs"></span></a>
+          <div class="stui-vodlist__detail">
+           <h4 class="title text-center text-overflow"><a href="[topicindexlist:link]" title="[topicindexlist:name]">[topicindexlist:name]</a></h4>
+           <p class="text text-center text-overflow text-muted hidden-xs">—— [topicindexlist:count]个影片 ——</p>
+          </div>
+         </div></li>
+		{/seacms:topicindexlist}
+       </ul>
+      </div>
+     </div>
+    </div>
+		<ul class="stui-page text-center cleafix">
+			<li>{if:{topicindexlist:page}==1}<a>首页</a>{else}<a href="{topicindexlist:firstlink}">首页</a>{end if}</li>
+			<li>{if:{topicindexlist:page}==1}<a>上一页</a>{else}<a href="{topicindexlist:backlink}">上一页</a>{end if}</li>
+			{topicindexlist:pagenumber len=6}
+			{if:{topicindexlist:page}<>[pagenumber:page]}<li class="hidden-xs"><a href="[pagenumber:link]">[pagenumber:page]</a></li>{else}<li class="hidden-xs active"><a>[pagenumber:page]</a></li>{end if}
+			{/topicindexlist:pagenumber}
+			<li class="active visible-xs"><span class="num">{topicindexlist:page}/{topicindexlist:pagecount}</span></li>
+			<li>{if:{topicindexlist:page}=={topicindexlist:pagecount}}<a>下一页</a>{else}<a href="{topicindexlist:nextlink}">下一页</a>{end if}</li>
+			<li>{if:{topicindexlist:page}=={topicindexlist:pagecount}}<a>尾页</a>{else}<a href="{topicindexlist:lastlink}">尾页</a>{end if}</li>
+		</ul>
+   </div>
+  </div>
+{seacms:foot}
+</body>
+</html>

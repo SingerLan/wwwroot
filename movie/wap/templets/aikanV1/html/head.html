@@ -1,0 +1,45 @@
+<header class="stui-header__top clearfix" id="header-top">
+<div class="container">
+	<div class="row">
+		<div class="stui-header_bd clearfix">
+			<div class="stui-header__logo">
+				<a class="logo" href="{seacms:indexlink}"></a>
+			</div>
+			<div class="stui-header__side">
+				<ul class="stui-header__user">
+					<!--<li class="hidden-xs"><a href="/login.php"><i class="icon iconfont icon-account"></i></a></li>
+					-->
+					<li class="visible-xs"><a class="open-popup" href="javascript:;"><i class="icon iconfont icon-viewgallery"></i></a></li>
+				</ul>
+				<div class="stui-header__search">
+					<form name="formsearch" id="formsearch" action='/wap/search.php' method="post" autocomplete="off">
+						<input class="form-control" id="wd" placeholder="输入影片关键词..." name="searchword" type="text" id="keyword" required=""><input type="submit" id="searchbutton" value="" class="hide"><button class="submit" id="submit" onclick="$('#formsearch').submit();"><i class="icon iconfont icon-search"></i></button>
+					</form>
+				</div>
+			</div>
+			<ul class="stui-header__menu type-slide">
+				<li {if:{seacms:currenttypeid}=-444}class="active" id="index1"{end if}><a href="http://www.lookoro.cn/wap/">首页</a></li>
+				{seacms:menulist type=top}
+				<li {if:[menulist:typeid]={seacms:currenttypeid}}class="active" id="index1" {end if}><a href="[menulist:link]">[menulist:typename]</a></li>
+				{/seacms:menulist}
+                                <li  id="index2"><a href="/wap/gbook.php">留言求片</a></li>
+				<!-- <li ><a href="{seacms:topiclink}">专题</a></li> -->
+                <!-- <li ><a href="/ys/">备用站点</a></li> -->
+			</ul>
+		</div>
+	</div>
+</div>
+</header>
+<div class="popup clearfix">
+	<div class="popup-head bottom-line">
+		<h5 class="title pull-right">全部分类</h5>
+		<a href="javascript:;" class="close-popup"><i class="icon iconfont icon-back"></i></a>
+	</div>
+	<div class="popup-body col-pd">
+		<ul class="tag tag-type">
+		{seacms:menulist type=all}
+			<li class="col-xs-4"><a href="[menulist:link]">[menulist:typename]</a></li>
+		{/seacms:menulist}
+		</ul>
+	</div>
+</div>

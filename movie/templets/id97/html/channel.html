@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<TITLE>最近上映{channelpage:typename},热门{channelpage:typename},{channelpage:typename}下载 - {seacms:sitename} - {seacms:sitenotice}</TITLE>
+	<meta name="keywords" content="最近上映{channelpage:typename},热门{channelpage:typename},{channelpage:typename}下载">
+	<meta name="description" content="{seacms:des}">
+	{seacms:load head_include.html}
+</head>
+<body>
+	{seacms:top}
+	<div class="container">
+		<div class="row">
+			<div class="tag-box">
+				<table class="table" style="margin-bottom:10px;">
+					<tbody>
+						<tr>
+							<td class="tag-span2">按剧情：</td>
+							<td class="tags">
+								<a href="#" class="tag active">全部</a>
+								{seacms:jqcaslist}
+								<a href="[jqcaslist:link]" class="tag"> [jqcaslist:value]</a>
+								{/seacms:jqcaslist}
+							</td>
+						</tr>
+						<tr>
+							<td class="tag-span2">按地区：</td>
+							<td class="tags">
+								<a href="#" class="tag active">全部</a>
+								{seacms:areacaslist} <a href='[areacaslist:link]' class="tag"> [areacaslist:value]</a>{/seacms:areacaslist}          
+							</td>
+						</tr>
+						<tr>
+							<td class="tag-span2">按年代：</td>
+							<td class="tags">			
+								<a href="#" class="tag active">全部</a>
+								{seacms:yearcaslist} <a href='[yearcaslist:link]' class="tag"> [yearcaslist:value]</a> {/seacms:yearcaslist}
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+
+			<div class="col-xs-12" style="padding:0 5px;">
+				{seacms:channellist size=35 order=time}
+				<div class="col-xs-1-5 col-sm-4 col-xs-6 movie-item">
+					<div class="movie-item-in">
+						<a style="position:relative;display:block;" title="[channellist:name]" target="_blank" href="[channellist:link]">
+							<img alt="[channellist:name]" title="[channellist:name]" src="[channellist:pic]">
+							<span class="qtag">{if:[channellist:state]==0}[channellist:ver]{else}更新至[channellist:state]集{end if}</span>
+							<div class="item-hover"></div>
+						</a>
+						<div class="meta">
+							<h4><a href="[channellist:link]" target="_blank" title="[channellist:name]" class="movie-name">[channellist:name]</a><em> - [channellist:douban]分</em></h4>
+							<div class="otherinfo">类型：[channellist:jqtype]</div>
+						</div>    
+					</div>
+				</div>
+				{/seacms:channellist}
+			</div>
+		</div>
+		<div class="pager-bg" style="text-align:center;">
+			<ul class="pagination pagination-sm">{if:{channellist:page}>1}<li><a href="{channellist:backlink}">上一页</a></li>{end if}
+				{channellist:pagenumber len=8}
+				<li {if:{channellist:page}=[pagenumber:page]}class="active"{end if}><a href="[pagenumber:link]">[pagenumber:page]</a></li>
+				{/channellist:pagenumber}
+				{if:{channellist:pagecount}>1}
+				<li><a href="{channellist:nextlink}">下一页</a></li>
+				<li><a href="{channellist:lastlink}">末页</a></li>
+				{end if}
+			</ul>
+		</div>
+
+	</div><!-- end container -->
+	{seacms:foot}
+</body>
+</html>

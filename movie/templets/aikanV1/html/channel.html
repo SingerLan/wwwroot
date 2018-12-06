@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="/favicon.ico" /><!-- 我添加的网页站标的ico图标，别的页面我也修复添加了 --> 
+<title>{channelpage:typename}-{seacms:sitename}</title>
+<meta name="keywords" content="{channelpage:keywords}">
+<meta name="description" content="{channelpage:description}">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"/>
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="images/iconfont.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_block.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_default.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_custom.css" type="text/css"/>
+<script type="text/javascript" src="images/jquery.min.js"></script>
+<script type="text/javascript" src="images/stui_default.js"></script>
+<script type="text/javascript">var sitePath='{seacms:sitepath}', siteUrl='{seacms:siteurl}', sitepath='{seacms:sitepath}'</script>
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+{seacms:top}
+<div class="container">
+	<div class="row">
+		<div class="stui-pannel stui-pannel-bg clearfix">
+			<div class="stui-pannel-box">
+				<div class="stui-pannel_hd">
+					<div class="stui-pannel__head active bottom-line clearfix">
+						<h3 class="title"><img src="images/icon_25.png"/>{channelpage:typename}</h3>
+						<ul class="nav nav-page pull-right">
+							<li>{if:{channellist:page}==1}<a><i class="icon iconfont icon-back"></i></a>{else}<a href="{channellist:backlink}"><i class="icon iconfont icon-back"></i></a>{end if}</li>
+							<li>{if:{channellist:page}=={channellist:pagecount}}<a><i class="icon iconfont icon-more"></i></a>{else}<a href="{channellist:nextlink}"><i class="icon iconfont icon-more"></i></a>{end if}</i></a></li>
+						</ul>
+						<span class="more text-muted pull-right hidden-xs">共有{channellist:recordcount}部影片，当前第{channellist:page}页</span>
+					</div>{if:{seacms:currenttypeid}>4}
+					<ul class="stui-screen__list type-slide bottom-line-dot clearfix">
+						<li><span class="text-muted">按分类</span></li>
+						{seacms:menulist type={seacms:currenttypeid}}{seacms:smallmenulist type=[menulist:upid]}
+						<li {subif:{seacms:currenttypeid}==[smallmenulist:typeid]}class="active"{end subif}><a href="[smallmenulist:link]">[smallmenulist:typename]</a></li>
+						{/seacms:smallmenulist}{/seacms:menulist}
+					</ul>{else}
+					<ul class="stui-screen__list type-slide bottom-line-dot clearfix">
+						<li><span class="text-muted">按分类</span></li>
+						{seacms:smallmenulist type={seacms:currenttypeid}}
+						<li><a href="[smallmenulist:link]">[smallmenulist:typename]</a></li>
+						{/seacms:smallmenulist}
+					</ul>{end if}
+					<ul class="stui-screen__list type-slide bottom-line-dot clearfix">
+						<li><span class="text-muted">按地区</span></li>
+						{seacms:areacaslist}
+						<li><a href="[areacaslist:link]" title="[areacaslist:value]">[areacaslist:value]</a></li>
+						{/seacms:areacaslist}
+					</ul>
+					<ul class="stui-screen__list type-slide clearfix">
+						<li><span class="text-muted">按年份</span></li>
+						{seacms:yearcaslist}
+						<li><a href="[yearcaslist:link]" title="[yearcaslist:value]">[yearcaslist:value]</a></li>
+						{/seacms:yearcaslist}
+					</ul>
+				</div>
+				<div class="stui-pannel_bd">
+					<ul class="stui-vodlist clearfix">
+					{seacms:channellist size=30 order=time}
+						<li class="col-md-6 col-sm-4 col-xs-3">
+						<div class="stui-vodlist__box">
+							<a class="stui-vodlist__thumb lazyload" href="[channellist:link]" title="[channellist:name]" data-original="[channellist:pic]"><span class="play hidden-xs"></span><span class="pic-text text-right">{if:[channellist:state]<1}[channellist:note]{elseif:[channellist:state]<1000 and [channellist:state]>0}更新至第[channellist:state]集{elseif:[channellist:state]>1000}第[channellist:state]期{elseif:[channellist:state]=0 and "[channellist:note]"=""}[channellist:note]{end if}</span></a>
+							<div class="stui-vodlist__detail">
+								<h4 class="title text-overflow"><a href="[channellist:link]" title="[channellist:name]">[channellist:name]</a></h4>
+								<p class="text text-overflow text-muted hidden-xs">[channellist:nolinkactor]</p>
+							</div>
+						</div>
+						</li>
+					{/seacms:channellist}
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- 筛选列表 -->
+		<ul class="stui-page text-center cleafix">
+			<li>{if:{channellist:page}==1}<a>首页</a>{else}<a href="{channellist:firstlink}">首页</a>{end if}</li>
+			<li>{if:{channellist:page}==1}<a>上一页</a>{else}<a href="{channellist:backlink}">上一页</a>{end if}</li>
+			{channellist:pagenumber len=6}
+			{if:{channellist:page}<>[pagenumber:page]}<li class="hidden-xs"><a href="[pagenumber:link]">[pagenumber:page]</a></li>{else}<li class="hidden-xs active"><a>[pagenumber:page]</a></li>{end if}
+			{/channellist:pagenumber}
+			<li class="active visible-xs"><span class="num">{channellist:page}/{channellist:pagecount}</span></li>
+			<li>{if:{channellist:page}=={channellist:pagecount}}<a>下一页</a>{else}<a href="{channellist:nextlink}">下一页</a>{end if}</li>
+			<li>{if:{channellist:page}=={channellist:pagecount}}<a>尾页</a>{else}<a href="{channellist:lastlink}">尾页</a>{end if}</li>
+		</ul>
+		<!-- 列表翻页-->
+	</div>
+</div>
+{seacms:foot}
+</body>
+</html>

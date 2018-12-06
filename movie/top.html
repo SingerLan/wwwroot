@@ -1,0 +1,455 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+		<head>
+					<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0;" name="viewport" />
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+		<!--[if lt IE 9]>
+		<script src="/templets/default/images/html5shiv/3.7.2/html5shiv.min.js"></script>
+		<script src="/templets/default/images/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+		<link href="/templets/default/images/css/bootstrap.min.css" rel="stylesheet" type="text/css" />				
+		<link href="/templets/default/images/css/swiper.min.css" rel="stylesheet" type="text/css" >		
+		<link href="/templets/default/images/font/iconfont.css" rel="stylesheet" type="text/css" />
+		<link href="/templets/default/images/css/color.css" rel="stylesheet" type="text/css" />
+		<link href="/templets/default/images/css/style.min.css" rel="stylesheet" type="text/css" />
+		<script src="/templets/default/images/jquery/1.11.3/jquery.min.js"></script>
+		<script type="text/javascript" src="/templets/default/images/js/bootstrap.min.js"></script>		
+		<script>var sitePath=''</script>
+		<script src="/js/common.js"></script>
+		<script src="/js/function.js"></script>
+		<script type='text/javascript' src="/templets/default/images/js/LazyLoad.js"></script>
+		<script type='text/javascript' src="/templets/default/images/js/swiper.min.js"></script>	
+		<script type="text/javascript " src="/templets/default/images/js/history.js "></script>		
+			<title>排行榜</title>
+			<meta name="keywords" content="大饼影视">
+			<meta name="description" content="大饼影视">	
+		</head>
+	  <body>
+		    <div class="hy-head-menu">
+	<div class="container">
+	    <div class="row">
+		  	<div class="item">
+			    <div class="logo hidden-sm hidden-xs">
+					<a class="" href="/"><img src="/templets/default/images/logo.png" /></a>										  
+				</div>	
+				<div class="logo visible-sm visible-xs" style="background-color:#f1f1f1;">
+		  			<a class="visible-sm visible-xs" href="/"><img src="/templets/default/images/logo_min.png" /></a>											  
+				</div>	
+				<div class="search"> 
+			        <form name="formsearch" id="formsearch" action='/search.php' method="post" autocomplete="off">																			
+						<input class="form-control" placeholder="输入影片关键词..." name="searchword" type="text" id="keyword" required="">
+						<input type="submit" id="searchbutton" value="" class="hide">
+						<a href="javascript:" class="btns" title="搜索" onClick="$('#formsearch').submit();"><i class="icon iconfont icon-search"></i></a>
+					</form>
+			   </div>			   
+			   <ul class="menulist hidden-xs">
+					<li><a href="/">首页</a></li>
+										
+					<li><a href="/list/?1.html">  电影</a></li>						  
+										
+					<li><a href="/list/?2.html">  电视剧</a></li>						  
+										
+					<li><a href="/list/?3.html">  综艺</a></li>						  
+										
+					<li><a href="/list/?4.html">  动漫</a></li>						  
+						
+					<li><a href="/news/ ">资讯</a></li>
+					<li></li>
+				</ul>													 
+		  	</div>							
+	    </div>
+	</div>
+</div>
+		    <!--main-->		    
+		    <div class="container">
+				<div class="row">
+									
+					<div class="hy-layout clearfix" id="list-1">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=1">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 电影排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-2">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=2">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 电视剧排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-3">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=3">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 综艺排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-4">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=4">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 动漫排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-5">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=5">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 动作片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-6">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=6">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 爱情片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-7">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=7">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 科幻片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-8">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=8">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 恐怖片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-9">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=9">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 战争片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-10">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=10">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 喜剧片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-11">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=11">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 纪录片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-12">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=12">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 剧情片排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-13">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=13">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 大陆剧排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-14">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=14">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 港台剧排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-15">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=15">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 欧美剧排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+									
+					<div class="hy-layout clearfix" id="list-16">
+						<div class="hy-video-list cleafix">
+							<div class="head">
+								<a class="text-muted pull-right" href="/search.php?searchtype=5&tid=16">更多 <i class="icon iconfont icon-right"></i></a>
+								<h4><i class="icon iconfont icon-top text-color"></i> 日韩剧排行榜</h4>
+							</div>
+						    <div class="item">																			
+									
+							</div>
+						</div>	
+						<div class="hy-video-text-list hidden-xs clearfix">
+							<div class="item">
+								<ul class="clearfix">
+											
+								</ul>
+							</div>							
+						</div>
+					</div>					
+					
+				</div>
+			</div>
+		<div class="hy-gototop hidden-sm hidden-xs">
+	<ul class="item clearfix">
+		<li><a href="/member.php" title="会员中心"><i class="icon iconfont icon-member1"></i></a></li>
+		<li><a href="/gbook.php" title="留言求片"><i class="icon iconfont icon-comment"></i></a></li>
+		<li>
+			<a href="javascript:()" title="观看记录"><i class="icon iconfont icon-record1"></i></a>
+			<div class="history clearfix">
+				<div class="head">
+					<h5 class="margin-0 text-muted">观看历史</h5>
+				</div>
+				<script type="text/javascript ">
+					$MH.limit = 9;
+					$MH.WriteHistoryBox(200, 170, 'font');
+					
+				</script>
+			</div>			
+		</li>		
+		<li>
+			<a href="javascript:()"  title="二维码"><i class="icon iconfont icon-code1"></i></a>
+			<div class="code clearfix">
+				<p class="margin-0"><img class="pic-responsive" src="/pic/ewm.png" alt="扫描二维码" /></p>					
+			</div>
+		</li>
+		<li><a href="javascript:scroll(0,0)" title="返回顶部"><i class="icon iconfont icon-uparrow"></i></a></li>
+	</ul>
+</div>
+<div class="tabbar visible-xs">
+	<a href="/" class="item active">
+        <i class="icon iconfont icon-home"></i>
+        <p class="text">首页</p>
+    </a>
+        
+	<a href="/list/?1.html" class="item">
+        <i class="icon iconfont icon-film"></i>
+        <p class="text">电影 </p>
+    </a>
+        
+	<a href="/list/?2.html" class="item">
+        <i class="icon iconfont icon-show"></i>
+        <p class="text">电视剧 </p>
+    </a>
+        
+	<a href="/list/?3.html" class="item">
+        <i class="icon iconfont icon-flag"></i>
+        <p class="text">综艺 </p>
+    </a>
+        
+	<a href="/list/?4.html" class="item">
+        <i class="icon iconfont icon-mallanimation"></i>
+        <p class="text">动漫 </p>
+    </a>
+    
+	
+	<a href="/member.php" class="item">
+        <i class="icon iconfont icon-member1"></i>
+        <p class="text">会员</p>
+    </a>
+</div>
+<div class="container">
+	<div class="row">
+		<div class="hy-footer clearfix">
+			<p class="text-muted hidden-sm hidden-xs">本网站内容收集于互联网，大饼影视不承担任何由于内容的合法性及健康性所引起的争议和法律责任。<br> 本站永久免费更新最新电影与剧集，欢迎大家使用并推荐朋友。</p>
+			<p class="margin-0 text-muted">Copyright © 2008-2017</p>
+			
+		</div>
+	</div>
+</div>
+<span style="display:none"></span>
+<script type="text/javascript" charset="utf-8">
+    $(function() {
+        $(".videopic.lazy").lazyload({effect: "fadeIn"});  
+        $("[data-toggle='tooltip']").tooltip();
+    });
+  
+</script>
+	  </body>
+</html>

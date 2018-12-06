@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+	<title>{playpage:name} {playpage:part} - 在线观看 - {seacms:sitename} - {seacms:sitenotice}</title>
+	<meta name="keywords" content="{playpage:name}百度网盘,{playpage:name}在线观看,{playpage:name}西瓜影音" />
+	<meta name="description" content='{playpage:name}剧情:{playpage:des len=50}' />	<!-- Bootstrap -->
+	<link rel="stylesheet" rev="stylesheet" type="text/css" media="all" href="images/css/slimbox2.css">
+	{seacms:load head_include.html}
+	<script>var sitePath='{seacms:sitepath}'</script>
+	<script src="/{seacms:sitepath}js/common.js"></script>
+	<script src="/{seacms:sitepath}js/function.js"></script>
+	<script src="/{seacms:sitepath}js/play.js"></script>
+	<script>var playn='{playpage:name}', playp='{playpage:part}';</script>
+	<link rel="stylesheet" rev="stylesheet" type="text/css" media="all" href="images/css/jquery.allofthelights.css">
+    <script src="images/js/jquery.allofthelights.js"></script>
+	<script src="images/js/bootstrap.min.js"></script>
+</head>
+<body>
+	{seacms:top}
+	<div class="container" style="position:relative;">
+
+		<div class="container-fluid" style="background:#FFF;padding-top:15px;">
+			<ol class="breadcrumb">
+			{playpage:textlink} - 高清在线观看
+			</ol>
+			<div class="row">
+				<div class="col-xs-12">
+					<span class="movie-title" style="color: #F00; font-weight: bold; font-size: 14px;">{seacms:sitename}温馨提示：电影无法播放请先刷新，刷新三次还是不可以播放，再点击“{playpage:reporterr}”提交给我们哦，祝您观影愉快！</span>
+					<div class="extra-btn"><a id="switch" title="关灯"></a></div>
+				</div>
+				<div class="col-xs-12"><div id="player-box">{playpage:playurlinfo}{playpage:player}</div></div>
+				
+				<div class="col-xs-12">
+					{if:{playpage:typename}=="电视剧"}
+					<div style="padding:15px 0;text-align:right;">
+						<a class="btn btn-js-action btn-sm" href="javascript:;" onclick="$('#jsModal').modal('show');"><span class="glyphicon glyphicon-list"></span> 选集</a>
+						<a onclick="return parent.video_jump(-1)" href="javascript:void()" class="btn btn-js-action btn-sm"><span class="glyphicon glyphicon-step-backward"></span> 上一集</a>
+						<a onclick="return parent.video_jump(1)" href="javascript:void()" class="btn btn-js-action btn-sm">下一集 <span class="glyphicon glyphicon-step-forward"></span></a>
+					</div>
+        
+
+					<!-- 选集框 -->
+					<div class="modal fade" id="jsModal" tabindex="-1" resid="" role="dialog" aria-labelledby="jsModalLabel">
+						<div class="modal-dialog" role="document">
+							<div class="modal-content">
+								<div class="modal-header">
+									<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">�</span></button>
+									<h4 class="modal-title" id="welcomeModalLabel">请选择：</h4>
+								</div>
+								<div class="modal-body" style="overflow:auto;max-height:350px;">
+									<div class="row tv-js-list">
+										{playpage:playlist}
+										<div class="col-xs-11" style="width:95%;margin:0 0 10px 15px;border:1px solid #ccc;">
+											<div class="playlist">
+												<div class="h1">
+													<span class="f">[playlist:from]：[playlist:intro]</span>
+													<p class="jj">
+														<span id="vlink_[playlist:i]_s1"><em onclick="Order(1,'vlink_[playlist:i]',[playlist:i])">倒序↓</em></span>
+														<span id="vlink_[playlist:i]_s2"><em onclick="Order(0,'vlink_[playlist:i]',[playlist:i])" class="over">顺序↑</em></span>
+													</p>
+												</div>
+												<div id="vlink_[playlist:i]" class="videourl"><ul>[playlist:link target=_self]</ul></div>
+											</div>
+										</div>
+										{/playpage:playlist}
+									</div>
+								</div>
+								<div class="modal-footer">
+									<button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					{end if}
+					<div class="alert-x alert-warning" style="line-height:28px;padding:5px 10px;">按键 Ctrl+D 把 <b>{seacms:sitename}</b> 加入收藏夹，下次找电影更方便！！<div style="float:right;"><div style="height:28px;">
+						<div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more"></a><a title="分享到QQ空间" href="#" class="bds_qzone" data-cmd="qzone"></a><a title="分享到新浪微博" href="#" class="bds_tsina" data-cmd="tsina"></a><a title="分享到腾讯微博" href="#" class="bds_tqq" data-cmd="tqq"></a><a title="分享到人人网" href="#" class="bds_renren" data-cmd="renren"></a><a title="分享到微信" href="#" class="bds_weixin" data-cmd="weixin"></a></div>
+							<script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdPic":"","bdStyle":"0","bdSize":"16"},"share":{}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+					</div></div><div style="float:right;">电影不错？分享给朋友：</div></div>
+				</div>
+		
+		        <div class="col-xs-9 movie-info" style="width:780px;">
+					<div class="row">
+						<div class="col-xs-12"><h2>主演：</h2></div>
+						<div class="col-xs-12"><p>{playpage:actor}</p></div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12"><h2>剧情简介：</h2></div>
+						<div class="col-xs-12"><p>{playpage:des}</p>
+							<a class="btn btn-success" target="_blank" href="{playpage:link}"><i class="glyphicon glyphicon-download-alt"></i> {playpage:name}播放列表</a>
+						</div>
+						<div class="col-xs-12"><h2>精彩推荐</h2></div>
+						<div style="padding:0 10px;">
+							{seacms:videolist num=6 rel=y order=time type=all}
+							<div class="col-xs-2 movie-recommened">
+								<a style="position:relative;display:block;" target="_blank" title="[videolist:name]" href="[videolist:link]">
+									<img width="100%" src="[videolist:pic]" />
+									<span class="qtag">{if:{playpage:state}==0}{playpage:ver}{else}更新至{playpage:state}集{end if}</span>
+									<div class="item-hover"></div>
+								</a>
+								<a target="_blank" title="[videolist:name]" href="[videolist:link]"><h5>[videolist:name]</h5></a>
+							</div>
+							{/seacms:videolist}                
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12"><h2>影片评论</h2></div>
+						<div class="col-xs-12">
+							{playpage:comment}
+						</div>
+					</div>
+				</div>
+		    
+				<div class="col-xs-3 sidebar" style="padding-left:5px;width:230px;">
+					<h3>最近更新</h3>
+					<div class="list-group">
+						{seacms:videolist num=10 order=time}
+						<a target="_blank" href="[videolist:link]" class="list-group-item"><span {if:[videolist:i]>3}class="square-item-blue"{else}class="square-item-red"{end if}>[videolist:i]</span>[videolist:name]</a>{/seacms:videolist}
+					</div>
+					<h3>本周精选</h3>
+					<div class="list-group">
+						{seacms:videolist num=10 order=weekhit}
+						<a target="_blank" href="[videolist:link]" class="list-group-item"><span {if:[videolist:i]>3}class="square-item-blue"{else}class="square-item-red"{end if}>[videolist:i]</span>[videolist:name]</a>{/seacms:videolist}
+					</div>
+				</div>
+			</div>		
+
+		</div>
+
+	</div>
+	{seacms:foot}
+	<script type="text/javascript">
+		$(function(){
+			$("#player-box").allofthelights(); 
+		});
+	</script>
+</body>
+</html>

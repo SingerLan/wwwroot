@@ -1,0 +1,57 @@
+<div class="container">
+	<div class="row">
+		<div class="stui-foot clearfix">
+			<div class="col-pd text-center hidden-xs">
+			</div>
+			<p class="bdsharebuttonbox text-center margin-0 hidden-sm hidden-xs">
+				<strong>分享：</strong><!--注释前面的图标开始<span class="bds_shere"></span>注释结束--><a class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博"></a><a class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a><a class="bds_bdhome" data-cmd="bdhome" title="分享到百度新首页"></a><a class="bds_tqf" data-cmd="tqf" title="分享到腾讯朋友"></a><a class="bds_youdao" data-cmd="youdao" title="分享到有道云笔记"></a><a class="bds_more" data-cmd="more" title="更多"></a>
+			</p>
+          
+          <!--<p class="text-muted hidden-sm hidden-xs">本网站内容收集于互联网，《{seacms:sitename}》不承担任何由于内容的合法性及健康性所引起的争议和法律责任。<br> 本站永久免费更新最新电影与剧集，欢迎大家使用并推荐朋友。</p>-->
+			<p class="margin-0 text-muted" style="text-align: center;">2018-2019
+              <span> | </span> 
+              视频总数：{seacms:allcount}
+              <span> | </span>
+              今天更新：{seacms:daycount}
+              <span> | </span>
+              {seacms:runinfo}</p>
+          
+			<!--底部大图片注释开始<p class="text-center hidden-xs">
+				<a href="http://{seacms:siteurl}" target="_blank" title="{seacms:sitename}"><img src="images/copy.png" width="150" height="48" alt="{seacms:sitename}"/></a>
+			</p>注释结束-->
+			<!--底部版权注释开始，因为原来的版权只有手机才能看到<p class="text-muted text-center visible-xs">{seacms:copyright}</p>注释结束-->
+		</div>
+	</div>
+</div>
+<ul class="stui-extra clearfix">
+	<li><a class="backtop" href="javascript:scroll(0,0)" style="display: none;"><i class="icon iconfont icon-less"></i></a></li>
+	<li class="visible-xs"><a class="open-share" href="javascript:;"><i class="icon iconfont icon-share"></i></a></li>
+	<li class="hidden-xs"><span><i class="icon iconfont icon-qrcode"></i></span>
+	<div class="sideslip">
+		<div class="col-pd">
+			<img class="qrcode" width="150" height="150"/>
+			<p class="text-center font-12">
+				<strong>手机扫码访问这个页面</strong>
+			</p>
+		</div>
+	</div>
+	</li>
+</ul>
+<div class="hide">
+{seacms:sitevisitjs}
+</div>
+<script type="text/javascript" charset="utf-8">
+	window._bd_share_config = {
+		common: {
+			bdText: '',
+			bdDesc: '',
+			bdUrl: '',
+			bdPic: ''
+		},
+		share: [{
+			"bdSize": 24,
+			bdCustomStyle: 'images/stui_default.css'
+		}]
+	}
+	with(document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion=' + ~(-new Date() / 36e5)];
+</script>

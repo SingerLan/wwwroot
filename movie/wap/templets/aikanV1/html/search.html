@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="shortcut icon" href="/favicon.ico" />
+<title>{seacms:searchword}-{seacms:sitename}</title>
+<meta name="keywords" content="{seacms:sitenotice}">
+<meta name="description" content="{seacms:des}">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10"/>
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" href="images/iconfont.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_block.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_default.css" type="text/css"/>
+<link rel="stylesheet" href="images/stui_custom.css" type="text/css"/>
+<script type="text/javascript" src="images/jquery.min.js"></script>
+<script type="text/javascript" src="images/stui_default.js"></script>
+<script type="text/javascript">var sitePath='{seacms:sitepath}', siteUrl='{seacms:siteurl}', sitepath='{seacms:sitepath}'</script>
+<!--[if lt IE 9]>
+<script src="https://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+<body>
+{seacms:top}
+<div class="container">
+	<div class="row">
+		<div class="col-lg-wide-75 col-xs-1 padding-0">
+			<div class="stui-pannel stui-pannel-bg clearfix">
+				<div class="stui-pannel-box">
+					<div class="stui-pannel_hd">
+						<div class="stui-pannel__head active bottom-line clearfix">
+							<div class="nav nav-page pull-right">
+								<li>{if:{searchlist:page}==1}<a><i class="icon iconfont icon-back"></i></a>{else}<a href="{searchlist:backlink}"><i class="icon iconfont icon-back"></i></a>{end if}</li>
+								<li>{if:{searchlist:page}=={searchlist:pagecount}}<a><i class="icon iconfont icon-more"></i></a>{else}<a href="{searchlist:nextlink}"><i class="icon iconfont icon-more"></i></a>{end if}</i></a></li>
+							</div>
+							<span class="more text-muted pull-right hidden-xs">共有 {seacms:searchnum} 部影片，当前第 {searchlist:page} 页</span>
+							<h3 class="title"><img src="images/icon_27.png"/>与《{seacms:searchword}》相关的影片</h3>
+						</div>
+					</div>
+					<div class="stui-pannel_bd">
+						<ul class="stui-vodlist__media col-pd clearfix">
+						{seacms:searchlist size=11 order=time}
+							<li class="active top-line-dot clearfix">
+							<div class="thumb">
+								<a class="v-thumb stui-vodlist__thumb lazyload" href="[searchlist:playlink]" title="[searchlist:name]" data-original="[searchlist:pic]"><span class="play hidden-xs"></span><span class="pic-text text-right">{if:[searchlist:state]<1}[searchlist:note]{elseif:[searchlist:state]<1000 and [searchlist:state]>0}更新至第[searchlist:state]集{elseif:[searchlist:state]>1000}第[searchlist:state]期{elseif:[searchlist:state]=0 and "[searchlist:note]"=""}[searchlist:note]{end if}</span></a>
+							</div>
+							<div class="detail">
+								<h3 class="title"><a href="[searchlist:link]">[searchlist:name]</a></h3>
+								<p><span class="text-muted">导演：</span>[searchlist:director]</p>
+								<p><span class="text-muted">主演：</span>[searchlist:actor]</p>
+								<p>
+									<span class="text-muted">类型：</span>[searchlist:typename]<span class="lineh"> </span><span class="text-muted">地区：</span>[searchlist:publisharea]<span class="hidden-xs"><span class="lineh"> </span><span class="text-muted">年份：</span>[searchlist:publishtime]</span>
+								</p>
+								<p class="margin-0 hidden-sm hidden-xs"><span class="text-muted">简介：</span>[searchlist:des len=80]</p>
+							</div>
+							</li>
+						{/seacms:searchlist}
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!-- 搜索列表 -->
+		<ul class="stui-page text-center cleafix">
+			<li>{if:{searchlist:page}==1}<a>首页</a>{else}<a href="{searchlist:firstlink}">首页</a>{end if}</li>
+			<li>{if:{searchlist:page}==1}<a>上一页</a>{else}<a href="{searchlist:backlink}">上一页</a>{end if}</li>
+			{searchlist:pagenumber len=6}
+			{if:{searchlist:page}<>[pagenumber:page]}<li class="hidden-xs"><a href="[pagenumber:link]">[pagenumber:page]</a></li>{else}<li class="hidden-xs active"><a>[pagenumber:page]</a></li>{end if}
+			{/searchlist:pagenumber}
+			<li class="active visible-xs"><span class="num">{searchlist:page}/{searchlist:pagecount}</span></li>
+			<li>{if:{searchlist:page}=={searchlist:pagecount}}<a>下一页</a>{else}<a href="{searchlist:nextlink}">下一页</a>{end if}</li>
+			<li>{if:{searchlist:page}=={searchlist:pagecount}}<a>尾页</a>{else}<a href="{searchlist:lastlink}">尾页</a>{end if}</li>
+		</ul>
+			<!-- 列表翻页-->
+		</div>
+		<div class="col-lg-wide-25 stui-pannel-side hidden-md hidden-sm hidden-xs">
+		{seacms:arealist areatype=1,2,3,4}
+			<div class="stui-pannel stui-pannel-bg clearfix">
+				<div class="stui-pannel-box">
+					<div class="stui-pannel_hd">
+						<div class="stui-pannel__head active bottom-line clearfix">
+							<h3 class="title"><img src="images/icon_1.png"/>[arealist:typename]热播榜</h3>
+						</div>
+					</div>
+					<div class="stui-pannel_bd clearfix">
+					{seacms:videolist num=1 order=hit type=areatype}
+						<ul class="stui-vodlist__media active col-pd clearfix">
+							<li>
+							<div class="thumb">
+								<a class="m-thumb stui-vodlist__thumb lazyload" href="[videolist:link]" title="[videolist:name]" data-original="[videolist:pic]"><span class="pic-tag pic-tag-h">[videolist:i]</span></a>
+							</div>
+							<div class="detail detail-side">
+								<h4 class="title"><a href="[videolist:link]"><i class="icon iconfont icon-more text-muted pull-right"></i>[videolist:name len=8]</a></h4>
+								<p class="font-12">
+									<span class="text-muted">类型：</span>[videolist:typename] , <span class="text-muted">地区：</span>[videolist:publisharea]
+								</p>
+								<p class="font-12 margin-0">
+									<span class="text-muted">主演：</span>[videolist:nolinkactor len=10]
+								</p>
+							</div>
+							</li>
+						</ul>
+					{/seacms:videolist}
+						<ul class="stui-vodlist__text active col-pd clearfix">
+						{seacms:videolist num=9 start=2 order=hit type=areatype}
+							<li class="col-xs-1 padding-0"><a class="text-overflow" href="[videolist:link]" title="[videolist:name]"><span class="text-muted pull-right">{if:[videolist:state]<1}[videolist:note]{elseif:[videolist:state]<1000 and [videolist:state]>0}更新至第[videolist:state]集{elseif:[videolist:state]>1000}第[videolist:state]期{elseif:[videolist:state]=0 and "[videolist:note]"=""}[videolist:note]{end if}</span><em class="text-red">[videolist:i] . </em>[videolist:name len=8]</a></li>
+						{/seacms:videolist}
+						</ul>
+					</div>
+				</div>
+			</div>
+		{/seacms:arealist}
+			<!-- 列表翻页-->
+		</div>
+	</div>
+</div>
+{seacms:foot}
+</body>
+</html>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>留言板-{seacms:sitename}</title>
+	<meta name="keywords" content="{seacms:searchword},{seacms:sitename}" />
+	<meta name="description" content="{seacms:searchword},{seacms:sitename}" />
+<script type="text/javascript" src="templets/id97/html/js/jquery-1.8.3.min.js"></script>
+	{seacms:load head_include.html}
+<link  rel="stylesheet" href="templets/id97/html/css/main.css" />
+<link rel="stylesheet" type="text/css" href="templets/id97/html/css/sinaFaceAndEffec.css" />
+<style>
+nav[role="navigation"] {
+  text-align: center;
+}
+
+.cd-pagination {
+  width: 90%;
+  max-width: 768px;
+  margin: 2em auto 2em;
+  text-align: center;
+}
+.cd-pagination li {
+  /* 小屏幕上隐藏数字 */
+  display: none;
+  margin: 0 .2em;
+}
+.cd-pagination li.button {
+  /* 显示上一页和下一页按钮 */
+  display: inline-block;
+}
+.cd-pagination a, .cd-pagination span {
+  display: inline-block;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  /* 设置按钮大小 */
+  padding: .6em .8em;
+  font-size: 1rem;
+}
+.cd-pagination a {
+  border: 1px solid #e6e6e6;
+  border-radius: 0.25em;
+}
+.no-touch .cd-pagination a:hover {
+  background-color: #f2f2f2;
+}
+.cd-pagination a:active {
+  /* 点击效果 */
+  -webkit-transform: scale(0.9);
+  -moz-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  -o-transform: scale(0.9);
+  transform: scale(0.9);
+}
+.cd-pagination a.disabled {
+  /* 按钮不可用 */
+  color: rgba(46, 64, 87, 0.4);
+  pointer-events: none;
+}
+.cd-pagination a.disabled::before, .cd-pagination a.disabled::after {
+  opacity: .4;
+}
+.cd-pagination .button:first-of-type a::before {
+  content: '\00ab  ';
+}
+.cd-pagination .button:last-of-type a::after {
+  content: ' \00bb';
+}
+.cd-pagination .current {
+  /* 当前页码 */
+  background-color: #64a281;
+  border-color: #64a281;
+  color: #ffffff;
+  pointer-events: none;
+}
+</style>
+</head>
+<body>
+{seacms:top}
+		<div class="container">
+	<ol class="breadcrumb" style="padding:10px 15px;">
+        <li><a href="/">首页</a></li>
+        <li>留言板</li>
+        <li class="active" id="totalResultLi"></li>
+    </ol>
+			<div class="row">	
+				{gbook:viewLeaveWord}
+			</div>
+		</div>
+</div>
+{seacms:foot}
+</body>
+
+<script type="text/javascript" src="templets/id97/html/js/main.js"></script>
+<script type="text/javascript" src="templets/id97/html/js/sinaFaceAndEffec.js"></script>
+<script type="text/javascript">
+// 绑定表情
+$('.face-icon').SinaEmotion($('#m_content'));
+	// 测试本地解析
+	function leaveWord() {
+		var inputText = $('#m_content').val();
+		$('#m_content').val(AnalyticEmotion(inputText));
+$('#f_leaveword').submit();
+	}
+$(function(){
+
+$('#totalResultLi').text($('#totalResult').val()+'条留言');
+$('#index1').removeClass("active");
+$('#index2').addClass("active");
+});
+</script>
+</html>

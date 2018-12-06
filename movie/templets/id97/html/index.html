@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title>{seacms:sitename} - 一起分享电影给我们带来的快乐</title>
+	<meta name="keywords" content="{seacms:sitename}" />
+	{seacms:load head_include.html}
+</head>
+<body>
+	{seacms:top}
+<div class="container">
+    <div class="announcement alert-success"><span class="glyphicon glyphicon-comment"></span>公众号：大饼影视，另有任何想看的电影点击群号加群：<a href="https://jq.qq.com/?_wv=1027&k=5RuLzaJ">874801718</a>免费更新</div>
+</div>
+	<div class="container">
+
+		<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+				<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+				<li data-target="#carousel-example-generic" data-slide-to="4"></li>
+			</ol>
+		
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner" role="listbox">
+			{seacms:videolist num=6 order=time type=all commend=5}
+				<div {if:[videolist:i]==1} class="item active" {else} class="item" {end if}>
+					<a target="_blank" href="[videolist:link]"><img width="100%" src="[videolist:spic]" alt="[videolist:name]"></a>
+					<div class="carousel-caption">[videolist:name]</div>
+				</div>
+			{/seacms:videolist}
+			</div>
+			<!-- Controls -->
+			<a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+				<span class="glyphicon glyphicon-chevron-left"></span>
+				<span class="sr-only">上一张</span>
+			</a>
+			<a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+				<span class="glyphicon glyphicon-chevron-right"></span>
+				<span class="sr-only">下一张</span>
+			</a>
+		</div>
+		
+		<div class="row">
+			<div class="col-xs-12 index-box">
+				<h2 class="index-title">热门电影</h2>
+				<div style="margin:0 -10px;">
+					{seacms:videolist num=5 order=monthhit}
+					<div class="col-xs-1-5 movie-item">
+						<div class="movie-item-in">
+							<a style="position:relative;display:block;" title="[videolist:name]" target="_blank" href="[videolist:link]">
+								<img title="[videolist:name]" alt="[videolist:name]" src="[videolist:pic]">
+								<span class="qtag">{if:[videolist:state]==0}[videolist:ver]{else}更新至[videolist:state]集{end if}</span>
+								<div class="item-hover"></div>
+							</a>
+							<div class="meta">
+								<div style="width:100%;overflow:hidden;height:20px;"><a target="_blank" title="[videolist:name]" class="movie-name" href="[videolist:link]">[videolist:name]<em> - [videolist:douban]分</em></a></div>
+								<em>浏览次数：[videolist:hit]</em>
+							</div>
+						</div>
+					</div>
+					{/seacms:videolist}
+				</div>
+			</div>
+
+			<div class="col-xs-12 index-box">
+				<h2 class="index-title">最新电影</h2>
+				<div style="margin:0 -10px;">
+					{seacms:videolist num=25 type=all order=time}
+					<div class="col-xs-1-5 movie-item">
+						<div class="movie-item-in">
+							<a style="position:relative;display:block;" title="[videolist:name]" target="_blank" href="[videolist:link]">
+								<img alt="[videolist:name]" title="[videolist:name]" class="hotimg" src="[videolist:pic]">
+								<span class="qtag">{if:[videolist:state]==0}[videolist:ver]{else}更新至[videolist:state]集{end if}</span>
+								<div class="item-hover"></div>
+							</a>
+							<div class="meta">
+								<div style="width:100%;overflow:hidden;height:20px;"><a target="_blank" title="[videolist:name]" href="[videolist:link]" class="movie-name">[videolist:name]</a><span class="otherinfo"> - [videolist:douban]分</span></div>
+								<div class="otherinfo">类型：[videolist:jqtype]</div>
+							</div>
+						</div>
+					</div>
+					{/seacms:videolist}
+				</div>
+			</div>
+		</div>
+
+		<a class="btn btn-primary btn-block" style="margin-top:20px;" href="/list/?1.html"><i class="glyphicon glyphicon-fire"> </i> 更多热门影片 � </a>
+	</div>
+
+	{seacms:foot}
+</body>
+</html>

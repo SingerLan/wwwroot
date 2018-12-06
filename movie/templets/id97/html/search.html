@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>{seacms:searchword}-{seacms:sitename}</title>
+	<meta name="keywords" content="{seacms:searchword},{seacms:sitename}" />
+	<meta name="description" content="{seacms:searchword},{seacms:sitename}" />
+	{seacms:load head_include.html}
+</head>
+<body>
+{seacms:top}
+<div class="container">
+	<ol class="breadcrumb" style="padding:10px 15px;">
+        <li><a href="/">首页</a></li>
+        <li>资源搜索</li>
+        <li class="active">{seacms:searchword}</li>
+    </ol>
+{seacms:searchlist size=10 order=time} 
+<div class="result-item">
+    <div class="row">
+        <div class="col-xs-2">
+            <a target="_blank" href="[searchlist:link]" style="position:relative;display:block;"><img class="img-thumbnail" alt="[searchlist:name] " src='[searchlist:pic]'>
+			<span class="qtag">{if:[searchlist:state]==0}[searchlist:ver]{else}更新至[searchlist:state]集{end if}</span>
+			</a>
+        </div>
+        <div class="col-xs-7">
+            <p class="movie-name">名称：<strong><a target="_blank" href="[searchlist:link]">《[searchlist:name]》</a></strong><span class="subtype">[searchlist:typename]</span></p>
+            <div class="intro">
+            <p>上映时间：[searchlist:publishtime] / 地区：[searchlist:publisharea] / 人气：<strong>[searchlist:hit]</strong></p>
+            <p class="movie-introduce">[searchlist:des]</p>
+            <p>在线观看：<a target="_blank" href="[searchlist:link]">[searchlist:name]</a></p>
+            </div>
+        </div>
+		<div class="col-xs-3">
+        
+        </div>
+    </div>
+</div>
+{/seacms:searchlist}
+<div class="pager-bg">
+<ul class="pagination pagination-sm">{if:{searchlist:page}>1}<li><a href="{searchlist:backlink}">上一页</a></li>{end if}
+{searchlist:pagenumber len=8}
+<li {if:{searchlist:page}<>[pagenumber:page]}{else}class="active"{end if}><a href="[pagenumber:link]">[pagenumber:page]</a></li>
+{/searchlist:pagenumber}
+{if:{searchlist:pagecount}>1}
+<li><a href="{searchlist:nextlink}">下一页</a></li>
+<li><a href="{searchlist:lastlink}">末页</a></li>{end if}</ul></div>
+</div>
+{seacms:foot}
+</body>
+</html>
