@@ -1,4 +1,4 @@
-﻿var $MH={
+var $MH={
 	limit: 10,
 	width:960,
 	height: 170,
@@ -32,7 +32,7 @@
 			}
 		}
 		img_li = img_li != "" ? img_li : '<li style="width:100%;text-align:center;line-height:'+($MH.height-25)+'px;color:red">\u6CA1\u6709\u8BB0\u5F55</li>';
-		return "<div id=\"mh-box\" style=\"border:1px solid #ccc;height:"+$MH.height+"px;overflow:hidden\"><div style=\"height:24px;line-height:24px\" id=\"mh-title\"><div style=\"float:right;margin-right:5px;display:inline\"><a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(2);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u6E05\u7A7A</a>&nbsp;<a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(1);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u9690\u85CF</a></div><strong style=\"padding-left:5px;font-size:14px\">\u6211\u7684\u89C2\u770B\u5386\u53F2</strong></div><div id=\"mh-ul\"><ul style=\"margin:0px;border:0px;padding:0\">" + img_li + "</ul><div style=\"clear:both\"></div></div></div>";
+		return "<div id=\"mh-box\" style=\"border:1px solid #ccc;height:"+$MH.height+"px;overflow:hidden\"><div style=\"height:24px;line-height:24px\" id=\"mh-title\"><div style=\"float:right;margin-right:5px;display:inline\"><a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(2);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u6E05\u7A7A</a>?<a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(1);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u9690\u85CF</a></div><strong style=\"padding-left:5px;font-size:14px\">\u6211\u7684\u89C2\u770B\u5386\u53F2</strong></div><div id=\"mh-ul\"><ul style=\"margin:0px;border:0px;padding:0\">" + img_li + "</ul><div style=\"clear:both\"></div></div></div>";
 	},
 	fontlist: function (){
 		var a = $MH.getCookie("HISTORY"), c = 1,img_li = "";
@@ -45,7 +45,7 @@
 			}
 		}
 		img_li = img_li != "" ? img_li : '<li style="width:100%;text-align:center;line-height:'+($MH.height-25)+'px;color:red;list-style:none">\u6CA1\u6709\u8BB0\u5F55</li>';
-		return "<div id=\"mh-box\" style=\"border:1px solid #ccc;height:"+$MH.height+"px;overflow:hidden\"><div style=\"height:24px;line-height:24px\" id=\"mh-title\"><div style=\"float:right;margin-right:5px;display:inline\"><a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(2);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u6E05\u7A7A</a>&nbsp;<a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(1);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u9690\u85CF</a></div><strong style=\"padding-left:5px;font-size:14px\">\u6211\u7684\u89C2\u770B\u5386\u53F2</strong></div><div id=\"mh-ul\"><ul style=\"margin:0px;border:0px;padding:0\">" + img_li + "</ul><div style=\"clear:both\"></div></div></div>";
+		return "<div id=\"mh-box\" style=\"border:1px solid #ccc;height:"+$MH.height+"px;overflow:hidden\"><div style=\"height:24px;line-height:24px\" id=\"mh-title\"><div style=\"float:right;margin-right:5px;display:inline\"><a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(2);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u6E05\u7A7A</a>?<a href=\"javascript:void(0)\" onClick=\"$MH.showHistory(1);\" style=\"font-size:12px;color: #000000;line-height:24px;height:24px;text-decoration:none\">\u9690\u85CF</a></div><strong style=\"padding-left:5px;font-size:14px\">\u6211\u7684\u89C2\u770B\u5386\u53F2</strong></div><div id=\"mh-ul\"><ul style=\"margin:0px;border:0px;padding:0\">" + img_li + "</ul><div style=\"clear:both\"></div></div></div>";
 	},
 	WriteHistoryBox: function(w,h,c){
 		document.write('<div id="HISTORY" style="width:'+($MH.width=w)+'px;"></div>');

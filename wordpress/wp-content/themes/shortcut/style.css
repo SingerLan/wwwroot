@@ -2663,7 +2663,7 @@ div.wpcf7-response-output {
   position: relative;
 }
 .entry-media .placeholder {
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   height: 0;
 }
 .entry-media img {
@@ -3056,6 +3056,10 @@ div.wpcf7-response-output {
   width: 220px;
 }
 @media (max-width: 767px) {
+  .post-list {
+  display: flex;
+  margin-bottom: 10px;
+  }
   .post-list .entry-media {
     width: 120px;
   }

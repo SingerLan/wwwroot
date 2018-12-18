@@ -28,11 +28,11 @@ var jxBname="线路2";
 var jxCname="线路3";
 var jxDname="线路4";
 var jxEname="线路5";
-var jxAapi="http://api.ttyyy.cc/m3u8p2p/?url=";
-var jxBapi="http://player.jfrft.net/index.php?url=";
-var jxCapi="http://api.nohacks.cn/?url=";
+var jxAapi="http://www.lookoro.cn/m3u8.php?url=";
+var jxBapi="http://www.lookoro.cn/player/spare.php?url=";
+var jxCapi="http://jiexi.92fz.cn/player/jiexi.php?url=";
 var jxDapi="http://kpg3.cn/?url=";
-var jxEapi="http://www.lookoro.cn/m3u8.php/?url=";
+var jxEapi="https://lirongyao.com/player/spare.php?url=";
 
 function IsPC() {
     var userAgentInfo = navigator.userAgent;
@@ -348,7 +348,7 @@ function video_diy(){
 	video_html +='</ul>';
 	
 	//----------------播放器导航----------------------
-	var header1 = "<a href=\"javascript:void()\" onclick=\"return parent.video_jump(-1)\">上一集</a><a href=\"javascript:void()\" onclick=\"return parent.video_jump(1)\">下一集</a>";
+	var header1 = "<a href=\"javascript:void()\" style=\"white-space: nowrap;\" onclick=\"return parent.video_jump(1)\">下一集</a><a href=\"javascript:void()\" onclick=\"return parent.video_jump(-1)\">上一集</a>";
 	var header3 = "<a href=\"javascript:void(0)\" onClick=\"parent.video_opens(this);\">开启/关闭列表</a>";
 		
 	iframe.document.body.style.margin = 0;

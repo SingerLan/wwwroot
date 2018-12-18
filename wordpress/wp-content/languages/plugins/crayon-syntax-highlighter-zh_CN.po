@@ -1,0 +1,32 @@
+# Translation of Plugins - Crayon Syntax Highlighter - Development (trunk) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Crayon Syntax Highlighter - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-26 23:44:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Crayon Syntax Highlighter - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://aramk.com/"
+msgstr "http://aramk.com/"
+
+#. Author of the plugin/theme
+msgid "Aram Kocharyan"
+msgstr "Aram Kocharyan"
+
+#. Description of the plugin/theme
+msgid "Supports multiple languages, themes, highlighting from a URL, local file or post text."
+msgstr "支持多语言、不同主题，高亮来自URL、或本地文件或文章文本。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/aramk/crayon-syntax-highlighter"
+msgstr "https://github.com/aramk/crayon-syntax-highlighter"
+
+#. Plugin Name of the plugin/theme
+msgid "Crayon Syntax Highlighter"
+msgstr "Crayon Syntax Highlighter （Crayon语法显示）"

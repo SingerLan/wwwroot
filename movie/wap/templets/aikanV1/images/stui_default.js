@@ -117,9 +117,6 @@ var stui = {
 					skip_invisible: !1
 				})
 			})
-		},
-		qrcode: function() {
-			$("img.qrcode").attr("src", "http://www.iwocan.com/qr/?url=" + encodeURIComponent(stui.browser.url) + "")
 		}
 	},
 	common: {

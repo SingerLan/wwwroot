@@ -68,11 +68,11 @@ var str = parent.now;
 if(str.indexOf("http://")>=0)
 {
 var substr = str.match(/([^/]*).html/)[1];
-document.getElementById('player').innerHTML  = '<iframe width="100%" height="'+playerh+'" src="http://kpg3.cn/?url='+parent.now+'" allowfullscreen="true" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>';
+document.getElementById('player').innerHTML  = '<iframe width="100%" height="'+playerh+'" src="http://kpg3.cn/?url='+parent.now+'" allowfullscreen="true" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" autoPlay="true"></iframe>';
 }
 else
 {
-document.getElementById('player').innerHTML  = '<iframe width="100%" height="'+playerh+'" src="http://kpg3.cn/?url='+parent.now+'" allowfullscreen="true" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>';
+document.getElementById('player').innerHTML  = '<iframe width="100%" height="'+playerh+'" src="http://kpg3.cn/?url='+parent.now+'" allowfullscreen="true" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" autoPlay="true"></iframe>';
 }
 </script>   
 </body>

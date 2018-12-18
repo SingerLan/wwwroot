@@ -9,7 +9,7 @@
           </ul>
         </nav>-->
         <div class="site-info">
-          © <?php echo date('Y');?> <a href="https://loobo.me"> 大巧不工 </a> . All rights reserved  
+          � <?php echo date('Y');?> <a href="https://loobo.me"> 大巧不工 </a> . All rights reserved  
         </div>
       </div>
     </footer>
@@ -25,4 +25,13 @@
 </div> 
 <?php wp_footer(); ?>
 </body>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?ba33b9416b1edc06857e37f2190a5015";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
 </html>

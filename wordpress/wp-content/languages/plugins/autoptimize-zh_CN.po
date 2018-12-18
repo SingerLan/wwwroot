@@ -1,0 +1,430 @@
+# Translation of Plugins - Autoptimize - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Autoptimize - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-03-06 16:12:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Autoptimize - Stable (latest release)\n"
+
+#: classlesses/autoptimizeExtra.php:343
+msgid "Comma-separated list of local or 3rd party JS-files that should loaded with the <code>async</code> flag. JS-files from your own site will be automatically excluded if added here."
+msgstr "应该使用 <code>async</code> 标志加载的本地或第三方JS文件的逗号分隔列表。如果在这里添加, 自动网站的 JS 文件将被自动排除。"
+
+#: classlesses/autoptimizeExtra.php:339
+msgid "Async Javascript-files <em>(advanced users)</em>"
+msgstr "异步 Javascript 文件<em>(高级用户)</em>"
+
+#: classlesses/autoptimizeExtra.php:335
+msgid "Add 3rd party domains you want the browser to <a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">preconnect</a> to, separated by comma's. Make sure to include the correct protocol (HTTP or HTTPS)."
+msgstr "添加您希望浏览器<a href=\"https://www.keycdn.com/support/preconnect/#primary\" target=\"_blank\">预连接</a>的第三方域名, 以逗号分隔。确保包含正确的协议(HTTP或HTTPS)。"
+
+#: classlesses/autoptimizeExtra.php:333
+msgid "Preconnect to 3rd party domains <em>(advanced users)</em>"
+msgstr "预先连接到第三方域<em>(高级用户)</em>"
+
+#: classlesses/autoptimizeExtra.php:329
+msgid "Combine and load fonts asynchronously with <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a>"
+msgstr "使用 <a href=\"https://github.com/typekit/webfontloader#readme\" target=\"_blank\">webfont.js</a> 异步合并和加载字体"
+
+#: classlesses/autoptimizeExtra.php:328
+msgid "Combine and link in head"
+msgstr "在页头结合并链接"
+
+#: classlesses/autoptimizeExtra.php:326
+msgid "Leave as is"
+msgstr "保持原样"
+
+#: classlesses/autoptimizeExtra.php:324
+msgid "Google Fonts"
+msgstr "Google 字体"
+
+#: classlesses/autoptimizeExtra.php:320
+msgid "Removing query strings (or more specificaly the <code>ver</code> parameter) will not improve load time, but might improve performance scores."
+msgstr "删除查询字符串（或更具体指 <code>ver</code> 参数）不会缩短加载时间，但可能会提高性能分数。"
+
+#: classlesses/autoptimizeExtra.php:318
+msgid "Remove query strings from static resources"
+msgstr "从静态资源中删除查询字符串"
+
+#: classlesses/autoptimizeExtra.php:314
+msgid "Removes WordPress' core emojis' inline CSS, inline JavaScript, and an otherwise un-autoptimized JavaScript file."
+msgstr "移除WordPress核心繪文字的内联CSS，内联JavaScript和其他未自动优化的JavaScript文件。"
+
+#: classlesses/autoptimizeExtra.php:312
+msgid "Remove emojis"
+msgstr "移除 emojis"
+
+#: classlesses/autoptimizeExtra.php:309
+msgid "The following settings can improve your site's performance even more."
+msgstr "以下设置可以进一步提高网站的性能。"
+
+#: classlesses/autoptimizeExtra.php:308
+msgid "Extra Auto-Optimizations"
+msgstr "额外的自动优化"
+
+#: classlesses/autoptimizeExtra.php:290
+msgid "Extra"
+msgstr "额外"
+
+#: classes/autoptimizeCLI.php:17
+msgid "Cache flushed."
+msgstr "缓存已刷新。"
+
+#: classes/autoptimizeCLI.php:15
+msgid "Flushing the cache..."
+msgstr "正在刷新缓存..."
+
+#. #-#-#-#-#  autoptimize-code.pot (Autoptimize 2.3.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  autoptimize-code.pot (Autoptimize 2.3.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://autoptimize.com/"
+msgstr "https://autoptimize.com/"
+
+#: classes/autoptimizeToolbar.php:122
+msgid "Your Autoptimize cache might not have been purged successfully, please check on the <a href=%s>Autoptimize settings page</a>."
+msgstr "您的 Autoptimize 缓存可能尚未成功清除, 请检查<a href=%s>Autoptimize 设置页面</a>。"
+
+#: classes/autoptimizeConfig.php:386
+msgid "Need help? <a href='https://wordpress.org/plugins/autoptimize/faq/'>Check out the FAQ here</a>."
+msgstr "需要帮助吗? <a href='https://wordpress.org/plugins/autoptimize/faq/'>在这里查看常见问题解答</a>."
+
+#: classes/autoptimizeConfig.php:348
+msgid "By default Autoptimize is also active on your shop's cart/ checkout, uncheck not to optimize those."
+msgstr "默认情况下, Autoptimize 在您的商店的购物车/结帐时也处于活动状态, 不选中不优化这些。"
+
+#: classes/autoptimizeConfig.php:346
+msgid "Also optimize shop cart/ checkout?"
+msgstr "还要优化购物车/结帐?"
+
+#: classes/autoptimizeConfig.php:339
+msgid "By default Autoptimize is also active for logged on users, uncheck not to optimize when logged in e.g. to use a pagebuilder."
+msgstr "默认情况下, Autoptimize 对于登录用户也是有效的, 不选中将不优化, 例如在登录时使用页面生成器。"
+
+#: classes/autoptimizeConfig.php:337
+msgid "Also optimize for logged in users?"
+msgstr "还优化登录用户?"
+
+#: classes/autoptimizeConfig.php:328
+msgid "Misc Options"
+msgstr "杂项"
+
+#: classes/autoptimizeConfig.php:321
+msgid "%1$s files, totalling %2$s Kbytes (calculated at %3$s)"
+msgstr "%1$s 个文件, 合计 %2$s Kbytes (以 %3$s 计算)"
+
+#: classes/autoptimizeConfig.php:300
+msgid "Enter your CDN root URL to enable CDN for Autoptimized files. The URL can be http, https or protocol-relative (e.g. <code>//cdn.example.com/</code>). This is not needed for Cloudflare."
+msgstr "输入您的 CDN 根 URL 以启用 Autoptimize 文件的 CDN。该 URL 可以是 http, https 或与协议相关的 (例如 <code>//cdn.example.com/</code>)。不需要 Cloudflare。"
+
+#: classes/autoptimizeConfig.php:233
+msgid "Let Autoptimize also extract JS from the HTML. <strong>Warning</strong>: this can make Autoptimize's cache size grow quickly, so only enable this if you know what you're doing."
+msgstr "让 Autoptimize 也从 HTML 中提取 JS。<strong>警告</strong>: 这可以使 Autoptimize 的缓存大小快速增长, 因此只有在知道自己在做什么的情况下才能启用此功能。"
+
+#: classes/autoptimizeConfig.php:225 classes/autoptimizeConfig.php:262
+msgid "(deprecated)"
+msgstr "(废弃)"
+
+#: classes/autoptimizeConfig.php:221
+msgid "Load JavaScript early, this can potentially fix some JS-errors, but makes the JS render blocking."
+msgstr "提前加载 JavaScript, 这可能会修复一些JS错误, 但使 JS 渲染受阻。"
+
+#: classes/autoptimizeConfig.php:162
+msgid "<strong>You are using a very old version of PHP</strong> (5.2.x or older) which has <a href=%s>serious security and performance issues</a>. Support for PHP 5.5 and below will be removed in one of the next AO released, please ask your hoster to provide you with an upgrade path to 7.x."
+msgstr "<strong>您正在使用一个非常旧的 PHP 版本(5.2.x或更旧的版本), 它有<a href=%s>严重的安全和性能问题</a>。支持 PHP 5.5 及以下的版本将会在下一个AO版本中被删除, 请向您的主机供应商升咨询升级到7.x的方法."
+
+#: autoptimize.php:120
+msgid "Autoptimize cannot write to the cache directory (%s), please fix to enable CSS/ JS optimization!"
+msgstr "Autoptimize 无法写入缓存目录(%s), 请修复以启用 CSS/JS 优化!"
+
+#: classlesses/autoptimizePartners.php:87
+msgid "Have a look at <a href=\"http://optimizingmatters.com/\">optimizingmatters.com</a> for Autoptimize power-ups!"
+msgstr "查看 <a href=\"http://optimizingmatters.com/\">optimizematters.com</a> 以获取 Autoptimize 更多功能！"
+
+#: classlesses/autoptimizePartners.php:77
+msgid "These Autoptimize power-ups and related services will improve your site's performance even more!"
+msgstr "这些 Autoptimize 功能和相关服务将会提高您网站的性能!"
+
+#: classlesses/autoptimizePartners.php:16
+msgid "Optimize More!"
+msgstr "优化更多!"
+
+#: classlesses/autoptimizeCacheChecker.php:45
+msgid "Autoptimize's cache size is getting big, consider purging the cache. Have a look at https://wordpress.org/plugins/autoptimize/faq/ to see how you can keep the cache size under control."
+msgstr "Autoptimize 的缓存越来越大, 请考虑清除缓存。看看 https://wordpress.org/plugins/autoptimize/faq/ 看看如何保持高速缓存的大小。"
+
+#: classlesses/autoptimizeCacheChecker.php:44
+msgid "Autoptimize cache size warning"
+msgstr "Autoptimize 缓存大小警告"
+
+#: classes/autoptimizeToolbar.php:123
+msgid "Dismiss this notice."
+msgstr "关闭此通知。"
+
+#: classes/autoptimizeToolbar.php:96
+msgid "Delete Cache"
+msgstr "删除缓存"
+
+#: classes/autoptimizeToolbar.php:88
+msgid "Files"
+msgstr "文件"
+
+#: classes/autoptimizeToolbar.php:87
+msgid "Size"
+msgstr "尺寸"
+
+#: classes/autoptimizeConfig.php:688
+msgid "Main"
+msgstr "主要"
+
+#: classes/autoptimizeConfig.php:206
+msgid "Enable this if you want HTML comments to remain in the page."
+msgstr "如果您希望保留 HTML 注释在页面中, 请启用此功能。"
+
+#: classlesses/autoptimizeCacheChecker.php:61
+msgid "<strong>Autoptimize's cache size is getting big</strong>, consider purging the cache. Have a look at <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\">the Autoptimize FAQ</a> to see how you can keep the cache size under control."
+msgstr "<strong>Autoptimize 的缓存越来越大</strong>, 请考虑清除缓存。看看 <a href=\"https://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\">Autoptimize 常见问题解答哦</a> 来看看如何保持高速缓存的大小受到控制。"
+
+#: classes/autoptimizeConfig.php:675
+msgid "Posted %s"
+msgstr "发表 %s"
+
+#: classes/autoptimizeConfig.php:670
+msgid "No items"
+msgstr "无项目"
+
+#: classes/autoptimizeConfig.php:387
+msgid "Try my other plugins!"
+msgstr "试试我的其他插件!"
+
+#: classes/autoptimizeConfig.php:387
+msgid "Happy with Autoptimize?"
+msgstr "快乐享用 Autoptimize?"
+
+#: classes/autoptimizeConfig.php:270
+msgid "Check this option for Autoptimize to also aggregate CSS in the HTML."
+msgstr "勾选此选项 Autoptimize 也聚合 CSS 到 HTML 里面。"
+
+#: classes/autoptimizeConfig.php:268
+msgid "Also aggregate inline CSS?"
+msgstr "也聚合内联 CSS?"
+
+#: classlesses/autoptimizeExtra.php:327
+msgid "Remove Google Fonts"
+msgstr "删除谷歌字体?"
+
+#: classes/autoptimizeConfig.php:231
+msgid "Also aggregate inline JS?"
+msgstr "也聚合内联 JS 吗?"
+
+#. Author of the plugin/theme
+msgid "Frank Goossens (futtta)"
+msgstr "Frank Goossens (futtta)"
+
+#. Description of the plugin/theme
+msgid "Optimizes your website, concatenating the CSS and JavaScript code, and compressing it."
+msgstr "优化你的网站, 整合并压缩 CSS 和 JavaScript 代码。"
+
+#: classes/autoptimizeConfig.php:599 classes/autoptimizeConfig.php:605
+msgid "Settings"
+msgstr "设置"
+
+#: classes/autoptimizeConfig.php:550
+msgid "Autoptimize Options"
+msgstr "Autoptimize 选项"
+
+#: classes/autoptimizeConfig.php:411
+msgid "Do not donate for this plugin!"
+msgstr "不捐赠此插件!"
+
+#: classes/autoptimizeConfig.php:396
+msgid "Web Technology"
+msgstr "Web 技术"
+
+#: classes/autoptimizeConfig.php:395
+msgid "WordPress"
+msgstr "WordPress"
+
+#. #-#-#-#-#  autoptimize-code.pot (Autoptimize 2.3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: classes/autoptimizeConfig.php:394 classes/autoptimizeToolbar.php:69
+msgid "Autoptimize"
+msgstr "Autoptimize"
+
+#: classes/autoptimizeConfig.php:392
+msgid "futtta about"
+msgstr "关于作者"
+
+#: classes/autoptimizeConfig.php:363
+msgid "Save Changes and Empty Cache"
+msgstr "保存更改并清空缓存"
+
+#: classes/autoptimizeConfig.php:362
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: classes/autoptimizeConfig.php:333
+msgid "By default files saved are static css/js, uncheck this option if your webserver doesn't properly handle the compression and expiry."
+msgstr "通过保存的默认文件是静态 CSS/JS, 取消选中此选项, 如果您的网络服务器不能正确处理压缩及到期。"
+
+#: classes/autoptimizeConfig.php:331
+msgid "Save aggregated script/css as static files?"
+msgstr "保存聚合脚本/CSS为静态文件?"
+
+#: classes/autoptimizeConfig.php:317
+msgid "Cached styles and scripts"
+msgstr "缓存的样式和脚本"
+
+#: classes/autoptimizeConfig.php:314
+msgid "No"
+msgstr "否"
+
+#: classes/autoptimizeConfig.php:314
+msgid "Yes"
+msgstr "是"
+
+#: classes/autoptimizeConfig.php:313
+msgid "Can we write?"
+msgstr "可写入?"
+
+#: classes/autoptimizeConfig.php:309
+msgid "Cache folder"
+msgstr "缓存文件夹"
+
+#: classes/autoptimizeConfig.php:306 classes/autoptimizeToolbar.php:77
+msgid "Cache Info"
+msgstr "缓存信息"
+
+#: classes/autoptimizeConfig.php:298
+msgid "CDN Base URL"
+msgstr "CDN 基本 URL"
+
+#: classes/autoptimizeConfig.php:295
+msgid "CDN Options"
+msgstr "CDN选项"
+
+#: classes/autoptimizeConfig.php:289
+msgid "A comma-separated list of CSS you want to exclude from being optimized."
+msgstr "您希望从优化中排除的逗号分隔的CSS列表。"
+
+#: classes/autoptimizeConfig.php:287
+msgid "Exclude CSS from Autoptimize:"
+msgstr "从 Autoptimize 排除 CSS:"
+
+#: classes/autoptimizeConfig.php:284
+msgid "Inlining all CSS can improve performance for sites with a low pageviews/ visitor-rate, but may slow down performance otherwise."
+msgstr "内联所有 CSS 可以提高网站的性能和较低的页面浏览量/访客率, 但可能会减缓性能。"
+
+#: classes/autoptimizeConfig.php:282
+msgid "Inline all CSS?"
+msgstr "内联所有 CSS?"
+
+#: classes/autoptimizeConfig.php:279
+msgid "Paste the above the fold CSS here."
+msgstr "粘贴在合并的 CSS 上面。"
+
+#: classes/autoptimizeConfig.php:275
+msgid "Inline \"above the fold CSS\" while loading the main autoptimized CSS only after page load. <a href=\"http://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\">Check the FAQ</a> before activating this option!"
+msgstr "仅在页面加载后载入主要 autoptimized CSS 时内联 \"在合并的 CSS 上面\". 在激活该选项之前 <a href=\"http://wordpress.org/plugins/autoptimize/faq/\" target=\"_blank\">查看 FAQ</a>!"
+
+#: classes/autoptimizeConfig.php:273
+msgid "Inline and Defer CSS?"
+msgstr "内联和推迟CSS吗?"
+
+#: classes/autoptimizeConfig.php:264
+msgid "Don't autoptimize CSS outside the head-section. If the cache gets big, you might want to enable this."
+msgstr "不要自动优化头部之外的 CSS。如果缓存变得大了, 你可能要启用这个功能。"
+
+#: classes/autoptimizeConfig.php:262
+msgid "Look for styles only in &lt;head&gt;?"
+msgstr "只在 &lt;head&gt; 寻找样式?"
+
+#: classes/autoptimizeConfig.php:258
+msgid "Enable this to include small background-images in the CSS itself instead of as separate downloads."
+msgstr "启用它可以在CSS中包含小的背景图像,而不是单独的下载。"
+
+#: classes/autoptimizeConfig.php:256
+msgid "Generate data: URIs for images?"
+msgstr "生成数据: 图片 URI?"
+
+#: classes/autoptimizeConfig.php:252
+msgid "Optimize CSS Code?"
+msgstr "优化 CSS 代码?"
+
+#: classes/autoptimizeConfig.php:249
+msgid "CSS Options"
+msgstr "CSS 选项"
+
+#: classes/autoptimizeConfig.php:243
+msgid "If your scripts break because of a JS-error, you might want to try this."
+msgstr "如果你的脚本, 因为打破JS错误, 你可能会想试试这个。"
+
+#: classes/autoptimizeConfig.php:241
+msgid "Add try-catch wrapping?"
+msgstr "添加捕捉异常包装?"
+
+#: classes/autoptimizeConfig.php:238
+msgid "A comma-separated list of scripts you want to exclude from being optimized, for example 'whatever.js, another.js' (without the quotes) to exclude those scripts from being aggregated and minimized by Autoptimize."
+msgstr "您希望从优化中排除的逗号分隔的脚本列表, 例如\"whatever.js,another.js\"(不带引号), 以便通过 Autoptimize 将这些脚本从聚合和最小化中排除。"
+
+#: classes/autoptimizeConfig.php:236
+msgid "Exclude scripts from Autoptimize:"
+msgstr "从 Autoptimize 排除脚本:"
+
+#: classes/autoptimizeConfig.php:227
+msgid "Mostly useful in combination with previous option when using jQuery-based templates, but might help keeping cache size under control."
+msgstr "在使用基于jQuery的模板时与以前的选项结合使用非常有用, 但可能有助于控制缓存大小。"
+
+#: classes/autoptimizeConfig.php:225
+msgid "Look for scripts only in &lt;head&gt;?"
+msgstr "只在 &lt;head&gt; 中寻找脚本?"
+
+#: classes/autoptimizeConfig.php:219
+msgid "Force JavaScript in &lt;head&gt;?"
+msgstr "在 &lt;head&gt; 强制 JavaScript?"
+
+#: classes/autoptimizeConfig.php:215
+msgid "Optimize JavaScript Code?"
+msgstr "优化 JavaScript 代码吗?"
+
+#: classes/autoptimizeConfig.php:212
+msgid "JavaScript Options"
+msgstr "JavaScript 选项"
+
+#: classes/autoptimizeConfig.php:204
+msgid "Keep HTML comments?"
+msgstr "保留 HTML 注释吗?"
+
+#: classes/autoptimizeConfig.php:200
+msgid "Optimize HTML Code?"
+msgstr "优化 HTML 代码吗?"
+
+#: classes/autoptimizeConfig.php:197
+msgid "HTML Options"
+msgstr "HTML 选项"
+
+#: classes/autoptimizeConfig.php:173 classes/autoptimizeConfig.php:180
+msgid "Hide advanced settings"
+msgstr "隐藏高级设置"
+
+#: classes/autoptimizeConfig.php:172 classes/autoptimizeConfig.php:179
+msgid "Show advanced settings"
+msgstr "显示高级设置"
+
+#: classes/autoptimizeConfig.php:167 classlesses/autoptimizeExtra.php:304
+#: classlesses/autoptimizePartners.php:74
+msgid "Autoptimize Settings"
+msgstr "Autoptimize 设置"
+
+#: autoptimize.php:114
+msgid "Autoptimize has just been updated. Please <strong>test your site now</strong> and adapt Autoptimize config if needed."
+msgstr "Autoptimize 刚刚被更新。请 <strong>立即</strong> 测试您的网站, 如有需要请修改 Autoptimize 配置。"
+
+#: autoptimize.php:108
+msgid "Thank you for installing and activating Autoptimize. Please configure it under \"Settings\" -> \"Autoptimize\" to start improving your site's performance."
+msgstr "感谢您安装和激活 Autoptimize。请在 \"设置\" -> \"Autoptimize\" 里配置它去开始改善你的网站性能。"

@@ -241,9 +241,9 @@
           <!--<p class="text-muted hidden-sm hidden-xs">本网站内容收集于互联网，《大饼影视手机版》不承担任何由于内容的合法性及健康性所引起的争议和法律责任。<br> 本站永久免费更新最新电影与剧集，欢迎大家使用并推荐朋友。</p>-->
 			<p class="margin-0 text-muted" style="text-align: center;">2018-2019
               <span> | </span> 
-              视频总数：244
+              视频总数：257
               <span> | </span>
-              今天更新：7
+              今天更新：3
               <span> | </span>
               {seacms:runinfo}</p>
           
@@ -257,23 +257,13 @@
 <ul class="stui-extra clearfix">
 	<li><a class="backtop" href="javascript:scroll(0,0)" style="display: none;"><i class="icon iconfont icon-less"></i></a></li>
 	<li class="visible-xs"><a class="open-share" href="javascript:;"><i class="icon iconfont icon-share"></i></a></li>
-	<li class="hidden-xs"><span><i class="icon iconfont icon-qrcode"></i></span>
-	<div class="sideslip">
-		<div class="col-pd">
-			<img class="qrcode" width="150" height="150"/>
-			<p class="text-center font-12">
-				<strong>手机扫码访问这个页面</strong>
-			</p>
-		</div>
-	</div>
-	</li>
 </ul>
 <div class="hide">
 <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?951e1c4e49fc2c956865811f5f7a4d84";
+  hm.src = "https://hm.baidu.com/hm.js?d723a58bef748365633cf4a41c94bbf9";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();

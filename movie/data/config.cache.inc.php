@@ -77,7 +77,7 @@ $cfg_isfromsort = '0';
 $cfg_search_time = '3';
 $cfg_iscache = '1';
 $cfg_cachetime = '20';
-$cfg_cachemark = 'E20181014204006';
+$cfg_cachemark = 'E20181214104709';
 $cfg_issqlcache = '0';
 $cfg_ddimg_width = '300';
 $cfg_ddimg_height = '240';
@@ -91,7 +91,7 @@ $cfg_sitevisitejs = '<script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?951e1c4e49fc2c956865811f5f7a4d84";
+  hm.src = "https://hm.baidu.com/hm.js?d723a58bef748365633cf4a41c94bbf9";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();

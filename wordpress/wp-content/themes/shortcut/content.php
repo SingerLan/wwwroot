@@ -29,7 +29,7 @@
 									<div class="entry-media">
 										<div class="placeholder" style="padding-bottom: 66.666666666667%;">
 											<a href="<?php the_permalink();?>">
-												<img class="lazyload" data-srcset="<?php echo $image;?>" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="<?php the_title();?>">
+												<img style="border-radius: 8px;" class="lazyload" data-srcset="<?php echo $image;?>" data-sizes="auto" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt="<?php the_title();?>">
 											</a>
 										</div>
 										<div class="entry-format">
@@ -45,7 +45,7 @@
 										</header>
 										<?php if (!wpjam_is_mobile()): ?>
 										<div class="category-excerpt entry-excerpt u-text-format">
-											<?php echo mb_strimwidth(strip_shortcodes(strip_tags(apply_filters('the_content', $post->post_content))), 0, 90,"...");?>
+											<?php echo mb_strimwidth(strip_shortcodes(strip_tags(apply_filters('the_content', $post->post_content))), 0, 45,"...");?>
 										</div>
 										<?php endif ;?>
 										<div class="category-footer entry-footer">

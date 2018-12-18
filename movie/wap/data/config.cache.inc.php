@@ -91,7 +91,7 @@ $cfg_sitevisitejs = '<script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?951e1c4e49fc2c956865811f5f7a4d84";
+  hm.src = "https://hm.baidu.com/hm.js?d723a58bef748365633cf4a41c94bbf9";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();

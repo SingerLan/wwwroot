@@ -144,23 +144,23 @@ img{max-width: 100%; height: auto;}
 					<div class="carousel carousel_default flickity-page">
 					
 						<div class="col-md-2 col-xs-1">
-							<a href="/wapdetail/?484.html" class="stui-vodlist__thumb" title="超新星全运会" style="background: url(http://puui.qpic.cn/vupload/0/20181115_1542263756340_otmr02r4itp.jpeg/0) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">超新星全运会</span></a>
+							<a href="/wapdetail/?578.html" class="stui-vodlist__thumb" title="神奇动物：格林德沃之罪" style="background: url(https://ws1.sinaimg.cn/large/d38251bely1fy9tpcjhh0j21jk0ikqaj.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">神奇动物：格林德沃之罪</span></a>
 						</div>
 					
 						<div class="col-md-2 col-xs-1">
-							<a href="/wapdetail/?482.html" class="stui-vodlist__thumb" title="超人总动员2" style="background: url(http://img1.xmspc.com/uploads/images/oq11ymjufgdg.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">超人总动员2</span></a>
+							<a href="/wapdetail/?321.html" class="stui-vodlist__thumb" title="影" style="background: url(https://wx4.sinaimg.cn/large/c13d94acgy1fxts1y9a0dj212w0fawi4.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">影</span></a>
 						</div>
 					
 						<div class="col-md-2 col-xs-1">
-							<a href="/wapdetail/?318.html" class="stui-vodlist__thumb" title="蚁人2：黄蜂女现身" style="background: url(http://img1.xmspc.com/uploads/images/pdfz2ygc1n7l.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">蚁人2：黄蜂女现身</span></a>
+							<a href="/wapdetail/?334.html" class="stui-vodlist__thumb" title="邪不压正" style="background: url(http://img5.mtime.cn/pi/2018/06/27/092620.86703211_1000X1000.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">邪不压正</span></a>
 						</div>
 					
 						<div class="col-md-2 col-xs-1">
-							<a href="/wapdetail/?314.html" class="stui-vodlist__thumb" title="黄金兄弟" style="background: url(http://img1.xmspc.com/uploads/images/k8z1ddvla5el.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">黄金兄弟</span></a>
+							<a href="/wapdetail/?541.html" class="stui-vodlist__thumb" title="毒液：致命守护者" style="background: url(http://img1.xmspc.com/uploads/images/iawu4i7dvyw9.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">毒液：致命守护者</span></a>
 						</div>
 					
 						<div class="col-md-2 col-xs-1">
-							<a href="/wapdetail/?313.html" class="stui-vodlist__thumb" title="反贪风暴3" style="background: url(http://img1.xmspc.com/uploads/images/qush1m40f973.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">反贪风暴3</span></a>
+							<a href="/wapdetail/?552.html" class="stui-vodlist__thumb" title="悲伤逆流成河" style="background: url(http://img1.xmspc.com/uploads/images/zxzm76reof9n.jpg) no-repeat; background-position:50% 50%; background-size: cover; padding-top: 45%;"><span class="pic-text text-center">悲伤逆流成河</span></a>
 						</div>
 					
                              
@@ -205,40 +205,90 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?439.html" title="釜山行" data-original="http://img31.mtime.cn/mg/2016/07/25/110810.29899494_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">超清</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?584.html" title="大黄蜂" data-original="/uploads/allimg/181218/58fcb155b1a75689.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HDTC英语中字</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?439.html" title="釜山行">釜山行</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">孔侑,郑有美,马东锡,安昭熙,金义城,崔宇植,金秀安</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?584.html" title="大黄蜂">大黄蜂</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">海莉·斯坦菲尔德,约翰·塞纳,小豪尔赫·兰登伯格</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?543.html" title="永不言弃" data-original="/uploads/allimg/181204/4bc7623820495466.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD1280高清中字版</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?582.html" title="憨豆特工3" data-original="/uploads/allimg/181218/e54cadfdf45f9809.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD英语中字</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?543.html" title="永不言弃">永不言弃</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">塚田僚一,岩本照,深澤辰哉,渡辺翔太</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?582.html" title="憨豆特工3">憨豆特工3</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">罗温·艾金森 本·米勒 欧嘉·柯瑞兰寇</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?541.html" title="毒液：致命守护者" data-original="/uploads/allimg/181126/2d3a571b56ecfc78.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清中英双字版</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?583.html" title="海王" data-original="/uploads/allimg/181218/74ca3402b309bc36.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HDTC清晰版英语中字</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?541.html" title="毒液：致命守护者">毒液：致命守护者</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">汤姆·哈迪,米歇尔·威廉姆斯,里兹·阿迈德,斯科特·黑兹</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?583.html" title="海王">海王</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">杰森·莫玛,安布尔·赫德,威廉·达福,妮可·基德曼</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?540.html" title="卧虎藏龙" data-original="/uploads/allimg/181126/2bfa1b1d6770563c.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD1280高清国语中字版</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?578.html" title="神奇动物：格林德沃之罪" data-original="/uploads/allimg/181217/214528d6a5334c1d.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清中字韩版</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?540.html" title="卧虎藏龙">卧虎藏龙</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">周润发,杨紫琼,章子怡,张震</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?578.html" title="神奇动物：格林德沃之罪">神奇动物：格林德沃之罪</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">埃迪·雷德梅恩,凯瑟琳·沃特斯顿,约翰尼·德普,裘德·洛</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?576.html" title="神奇动物在哪里" data-original="/uploads/allimg/181217/b78978d8e3def882.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD1280高清中英双字版</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?576.html" title="神奇动物在哪里">神奇动物在哪里</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">埃迪·雷德梅恩,凯瑟琳·沃特斯顿,丹·福勒,艾莉森·萨多尔,科林·法瑞尔,埃兹拉·米勒,朗·普尔曼,强·沃特,萨曼莎·莫顿</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?577.html" title="狗十三" data-original="/uploads/allimg/181217/c8932ab9a8d93b22.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1024高清国语版</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?577.html" title="狗十三">狗十三</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">张雪迎,果靖霖,智一桐,代旭</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?571.html" title="冰海陷落" data-original="/uploads/allimg/181217/cd6dbd9681853f7f.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清中英双字韩版</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?571.html" title="冰海陷落">冰海陷落</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">杰拉德·巴特勒,加里·奥德曼,米哈伊尔·戈尔沃伊,迈克尔·恩奎斯特</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?570.html" title="与神同行" data-original="/uploads/allimg/181217/7754c5b598b8ce39.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD1280高清中字版</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?570.html" title="与神同行">与神同行</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">河正宇,车太贤,朱智勋,金香起,李政宰,金东旭,马东锡,都暻秀,吴达洙,林元熙,张光,郑海钧,金荷娜,金海淑</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?321.html" title="影" data-original="http://img5.mtime.cn/mg/2018/09/12/151651.77434735_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清国语中字版</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?321.html" title="影">影</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">邓超,孙俪,郑恺,王千源</p>
 								</div>
 							</div>
 							</li>
@@ -255,100 +305,50 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?534.html" title="前度" data-original="/uploads/allimg/181123/9ce45f124f9a8735.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清国语|粤语中字版</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?569.html" title="西游记之大圣归来" data-original="/uploads/allimg/181214/b8e683812dc05322.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清国语中字版</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?534.html" title="前度">前度</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">陈伟霆,钟欣潼,卫诗雅,曾国祥</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?569.html" title="西游记之大圣归来">西游记之大圣归来</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">张磊,林子杰,吴文伦,童自荣</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?530.html" title="三傻大闹宝莱坞" data-original="/uploads/allimg/181122/7035bd10c7966150.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD1280高清中字版</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?568.html" title="宝贝儿" data-original="/uploads/allimg/181214/ad095abc91d2d679.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清国语中字版</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?568.html" title="宝贝儿">宝贝儿</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">杨幂,郭京飞,李鸿其</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?564.html" title="冥界警局" data-original="http://img31.mtime.cn/mt/2013/05/08/040313.43676187_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清中英双字版</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?564.html" title="冥界警局">冥界警局</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">瑞恩·雷诺兹,杰夫·布里吉斯,凯文·贝肯,玛丽·露易斯·帕克</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?562.html" title="无名之辈" data-original="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=bb89d65bd92a283443a6310d638eaed7/50da81cb39dbb6fd89b623600424ab18962b3783.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD国语中字</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?562.html" title="无名之辈">无名之辈</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">陈建斌,任素汐,潘斌龙,章宇,王砚辉</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?530.html" title="三傻大闹宝莱坞" data-original="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=787652361,1329536808&fm=58&s=1BD5F7A644014CED18FFB3730300F079"><span class="play hidden-xs"></span><span class="pic-text text-right">BD1280高清中字版</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?530.html" title="三傻大闹宝莱坞">三傻大闹宝莱坞</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">阿米尔·汗,卡琳娜·卡普尔,马达范,沙尔曼·乔希</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?523.html" title="那些年，我们的青春岁月" data-original="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542699689728&di=e5777b70e21acd40f48e663604fcb55d&imgtype=0&src=http%3A%2F%2Fpic.ywtx.cc%2Fpic%2Fuploadimg%2F2018-11%2F201811191542615278.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD1280高清国语中字版</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?523.html" title="那些年，我们的青春岁月">那些年，我们的青春岁月</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">王越</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?525.html" title="极速杀机" data-original="http://image11.m1905.cn/mdb/uploadfile/2018/0611/thumb_1_283_390_20180611095153532595.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">BD1280高清中字版</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?525.html" title="极速杀机">极速杀机</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">约翰·特拉沃尔塔,詹迪·莫拉,凯瑟琳·温妮克,米拉·索维诺</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?511.html" title="非常嫌疑犯" data-original="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=0e9428fa3901213fcb3349de64e636f8/cdbf6c81800a19d83fba982633fa828ba61e4653.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD高清</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?511.html" title="非常嫌疑犯">非常嫌疑犯</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">史蒂芬·鲍德温,加布里埃尔·伯恩,本尼西奥·德尔·托罗,凯文·波拉克</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?510.html" title="控方证人" data-original="http://img31.mtime.cn/mt/2014/02/23/001732.78814428_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD高清</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?510.html" title="控方证人">控方证人</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">拉尔夫·理查德森,黛博拉·蔻儿,博·布里奇斯,黛安娜·里格</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?505.html" title="楚门的世界" data-original="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=2521426881,315274944&fm=58&s=B52200BE5442F6EE509314E50300F087"><span class="play hidden-xs"></span><span class="pic-text text-right">HD高清</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?505.html" title="楚门的世界">楚门的世界</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">金·凯瑞,劳拉·琳妮,艾德·哈里斯,诺亚·艾默里奇</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?506.html" title="唐人街探案2" data-original="http://img5.mtime.cn/mg/2018/02/05/093620.13079693_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?506.html" title="唐人街探案2">唐人街探案2</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">王宝强,刘昊然,肖央,刘承羽</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?507.html" title="超时空同居" data-original="http://img5.mtime.cn/mg/2018/05/05/175423.17616161_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?507.html" title="超时空同居">超时空同居</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">雷佳音,佟丽娅,张衣,于和伟</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?508.html" title="一出好戏" data-original="http://img5.mtime.cn/mg/2018/09/30/095413.32270331_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">HD</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?508.html" title="一出好戏">一出好戏</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">黄渤,舒淇,王宝强,张艺兴</p>
 								</div>
 							</div>
 							</li>
@@ -368,7 +368,7 @@ img{max-width: 100%; height: auto;}
 						
 							<li>
 							<div class="thumb">
-								<a class="m-thumb stui-vodlist__thumb lazyload" href="/wapdetail/?541.html" title="毒液：致命守护者" data-original="/uploads/allimg/181126/2d3a571b56ecfc78.jpg"><span class="pic-tag pic-tag-h">1</span></a>
+								<a class="m-thumb stui-vodlist__thumb lazyload" href="/wapdetail/?541.html" title="毒液：致命守护者" data-original="https://ss0.baidu.com/6ONWsjip0QIZ8tyhnq/it/u=1375103520,744240712&fm=58&s=63710B66A64A2CF4566D3D0F0000E0C1"><span class="pic-tag pic-tag-h">1</span></a>
 							</div>
 							<div class="detail detail-side">
 								<h4 class="title"><a href="/wapdetail/?541.html"><i class="icon iconfont icon-more text-muted pull-right"></i>毒液：致命守护者</a></h4>
@@ -384,23 +384,23 @@ img{max-width: 100%; height: auto;}
 						</ul>
 						<ul class="stui-vodlist__rank col-pd clearfix">
 						
-							<li><a href="/wapdetail/?478.html" title="毒诫"><span class="text-muted pull-right">BD1280高清国语|粤语中字</span><span class="badge badge-second">2</span>毒诫</a></li>
+							<li><a href="/wapdetail/?562.html" title="无名之辈"><span class="text-muted pull-right">BD国语中字</span><span class="badge badge-second">2</span>无名之辈</a></li>
 						
-							<li><a href="/wapdetail/?439.html" title="釜山行"><span class="text-muted pull-right">超清</span><span class="badge badge-third">3</span>釜山行</a></li>
+							<li><a href="/wapdetail/?334.html" title="邪不压正"><span class="text-muted pull-right">HD1280高清国语中字版</span><span class="badge badge-third">3</span>邪不压正</a></li>
 						
-							<li><a href="/wapdetail/?318.html" title="蚁人2：黄蜂女现身"><span class="text-muted pull-right">BD1280高清特效国语|原声</span><span class="badge ">4</span>蚁人2：黄蜂女现..</a></li>
+							<li><a href="/wapdetail/?578.html" title="神奇动物：格林德沃之罪"><span class="text-muted pull-right">HD1280高清中字韩版</span><span class="badge ">4</span>神奇动物：格林德..</a></li>
 						
-							<li><a href="/wapdetail/?510.html" title="控方证人"><span class="text-muted pull-right">HD高清</span><span class="badge ">5</span>控方证人</a></li>
+							<li><a href="/wapdetail/?552.html" title="悲伤逆流成河"><span class="text-muted pull-right">HD1280高清国语中字版</span><span class="badge ">5</span>悲伤逆流成河</a></li>
 						
-							<li><a href="/wapdetail/?310.html" title="低压槽：欲望之城"><span class="text-muted pull-right">BD1280高清国语中字版丨</span><span class="badge ">6</span>低压槽：欲望之城</a></li>
+							<li><a href="/wapdetail/?321.html" title="影"><span class="text-muted pull-right">HD1280高清国语中字版</span><span class="badge ">6</span>影</a></li>
 						
-							<li><a href="/wapdetail/?315.html" title="大轰炸"><span class="text-muted pull-right">HD1280高清中英双字版</span><span class="badge ">7</span>大轰炸</a></li>
+							<li><a href="/wapdetail/?534.html" title="前度"><span class="text-muted pull-right">HD1280高清国语|粤语中字</span><span class="badge ">7</span>前度</a></li>
 						
-							<li><a href="/wapdetail/?349.html" title="僵尸世界大战"><span class="text-muted pull-right">BD1280高清中英双字版</span><span class="badge ">8</span>僵尸世界大战</a></li>
+							<li><a href="/wapdetail/?478.html" title="毒诫"><span class="text-muted pull-right">BD1280高清国语|粤语中字</span><span class="badge ">8</span>毒诫</a></li>
 						
-							<li><a href="/wapdetail/?320.html" title="空中监狱"><span class="text-muted pull-right">HD1280高清中字版</span><span class="badge ">9</span>空中监狱</a></li>
+							<li><a href="/wapdetail/?576.html" title="神奇动物在哪里"><span class="text-muted pull-right">BD1280高清中英双字版</span><span class="badge ">9</span>神奇动物在哪里</a></li>
 						
-							<li><a href="/wapdetail/?322.html" title="无双"><span class="text-muted pull-right">HDTC清晰版</span><span class="badge ">10</span>无双</a></li>
+							<li><a href="/wapdetail/?564.html" title="冥界警局"><span class="text-muted pull-right">HD1280高清中英双字版</span><span class="badge ">10</span>冥界警局</a></li>
 						
 						</ul>
 					</div>
@@ -465,47 +465,17 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?537.html" title="我的恶魔少爷" data-original="http://puui.qpic.cn/vcover_vt_pic/0/rr8phxs26b6e7qj1542601547/0"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到16集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?575.html" title="我与你的光年距离2" data-original="/uploads/allimg/181217/8c6418e7f8d8e016.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到08集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?537.html" title="我的恶魔少爷">我的恶魔少爷</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">贾征宇,余心恬,文生,李岑奕</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?575.html" title="我与你的光年距离2">我与你的光年距离2</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">王以纶,许晓诺,完颜洛绒,张柏嘉</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?545.html" title="那座城这家人" data-original="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=aa54e53cff1fbe091c5ec412535b6b0e/c2cec3fdfc03924507173b458a94a4c27c1e25de.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到06集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?545.html" title="那座城这家人">那座城这家人</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">马元,童蕾,萨日娜,李建义</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?309.html" title="千门江湖之诡面疑云" data-original="https://puui.qpic.cn/vcover_vt_pic/0/u0a57gt7brnyro71541152253/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到30集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?309.html" title="千门江湖之诡面疑云">千门江湖之诡面疑云</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">宁桓宇,金雯昕,李岱昆,朱娅</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?308.html" title="你和我的倾城时光" data-original="http://img5.mtime.cn/mg/2018/10/26/100504.48033232_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到42集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?308.html" title="你和我的倾城时光">你和我的倾城时光</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">赵丽颖,金瀚,曹曦文,俞灏明</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?307.html" title="我们的四十年" data-original="http://img5.mtime.cn/mg/2018/11/12/143723.86771027_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到44集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?307.html" title="我们的四十年" data-original="http://img5.mtime.cn/mg/2018/11/12/143723.86771027_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">60集全</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?307.html" title="我们的四十年">我们的四十年</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">金世佳,柴碧云,李茂,徐小飒</p>
@@ -515,27 +485,67 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?306.html" title="幸福一家人" data-original="http://img5.mtime.cn/mg/2018/11/12/105351.54627213_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到50集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?563.html" title="特种兵之深入敌后" data-original="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=98fa2dbbf0039245a1b5e609bfafc3ff/d52a2834349b033b008127ac19ce36d3d539bdbf.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到24集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?306.html" title="幸福一家人">幸福一家人</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">董洁,翟天临,李立群,邱泽</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?563.html" title="特种兵之深入敌后">特种兵之深入敌后</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">李宗翰,甘露,张志坚,羿坤</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?518.html" title="双世宠妃2" data-original="https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=96d605da05fa513d51aa6bd8055632c6/314e251f95cad1c8a0df6c21723e6709c93d514b.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">30集全</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?579.html" title="天空之城" data-original="/uploads/allimg/181217/9be582655f7f7ac3.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到08集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?518.html" title="双世宠妃2">双世宠妃2</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">邢昭林,梁洁,王瑞昌,钟祺</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?579.html" title="天空之城">天空之城</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">廉晶雅,李泰兰,尹世雅,吴娜拉</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?301.html" title="将夜" data-original="http://img5.mtime.cn/mg/2018/10/25/094114.35579526_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到32集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?574.html" title="外滩钟声" data-original="/uploads/allimg/181217/e5c73ff34a68c208.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到14集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?574.html" title="外滩钟声">外滩钟声</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">俞灏明,吴谨言,陈谨,陈洁</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?545.html" title="那座城这家人" data-original="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=aa54e53cff1fbe091c5ec412535b6b0e/c2cec3fdfc03924507173b458a94a4c27c1e25de.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到26集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?545.html" title="那座城这家人">那座城这家人</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">马元,童蕾,萨日娜,李建义</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?537.html" title="我的恶魔少爷" data-original="http://puui.qpic.cn/vcover_vt_pic/0/rr8phxs26b6e7qj1542601547/0"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到28集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?537.html" title="我的恶魔少爷">我的恶魔少爷</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">贾征宇,余心恬,文生,李岑奕</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?572.html" title="大江大河" data-original="/uploads/allimg/181217/f8724ae02d7ffbfe.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到13集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?572.html" title="大江大河">大江大河</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">王凯,杨烁,董子健,童瑶</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?301.html" title="将夜" data-original="http://img5.mtime.cn/mg/2018/10/25/094114.35579526_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到48集</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?301.html" title="将夜">将夜</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">陈飞宇,宋伊人,胡军,郑少秋</p>
@@ -545,10 +555,30 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?533.html" title="回到明朝当王爷" data-original="/uploads/allimg/181123/01d17b10e50a8bdd.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到37集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?565.html" title="火王之破晓之战" data-original="/uploads/allimg/181213/db9ecf62bdbad093.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到24集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?533.html" title="回到明朝当王爷">回到明朝当王爷</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">蒋劲夫,袁冰妍,刘芮麟,柳岩</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?565.html" title="火王之破晓之战">火王之破晓之战</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">陈柏霖,景甜,张逸杰,赖雨濛</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?566.html" title="北部湾人家" data-original="/uploads/allimg/181213/db7d4e84646c7155.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">32集全</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?566.html" title="北部湾人家">北部湾人家</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">李雪健,刘莉莉,杜源,斓曦</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?309.html" title="千门江湖之诡面疑云" data-original="https://puui.qpic.cn/vcover_vt_pic/0/u0a57gt7brnyro71541152253/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到36集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?309.html" title="千门江湖之诡面疑云">千门江湖之诡面疑云</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">宁桓宇,金雯昕,李岱昆,朱娅</p>
 								</div>
 							</div>
 							</li>
@@ -565,50 +595,20 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?300.html" title="盛唐幻夜" data-original="http://img5.mtime.cn/mg/2018/11/06/105422.19042849_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到42集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?533.html" title="回到明朝当王爷" data-original="http://r1.ykimg.com/051600005A25FB76ADBDD3E3B1027584"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到37集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?300.html" title="盛唐幻夜">盛唐幻夜</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">吴倩,郑业成,张雨剑,董琦</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?533.html" title="回到明朝当王爷">回到明朝当王爷</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">蒋劲夫,袁冰妍,刘芮麟,柳岩</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?304.html" title="风再起时" data-original="http://img5.mtime.cn/mg/2018/10/19/093358.93310616_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到32集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?308.html" title="你和我的倾城时光" data-original="http://img5.mtime.cn/mg/2018/10/26/100504.48033232_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到50集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?304.html" title="风再起时">风再起时</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">陆毅,袁泉,朱雨辰,王维维</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?296.html" title="凉生，我们可不可以不忧伤" data-original="http://img5.mtime.cn/mg/2018/09/10/172937.18070179_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">70集全</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?296.html" title="凉生，我们可不可以不忧伤">凉生，我们可不可以不忧伤</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">钟汉良,马天宇,孙怡,于朦胧</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?520.html" title="斗破苍穹" data-original="http://puui.qpic.cn/vcover_vt_pic/0/5joaacfgqdo8q8v1535974673/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到42集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?520.html" title="斗破苍穹">斗破苍穹</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">吴磊,林允,李沁,陈楚河</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?517.html" title="兄弟连第一季" data-original="http://puui.qpic.cn/vcover_vt_pic/0/bhy04pna3ewxzv4t1444795169.jpg/0"><span class="play hidden-xs"></span><span class="pic-text text-right">完结</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?517.html" title="兄弟连第一季">兄弟连第一季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">戴米恩·路易斯,唐尼·沃尔伯格,朗·里维斯顿,马修·塞特尔</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?308.html" title="你和我的倾城时光">你和我的倾城时光</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">赵丽颖,金瀚,曹曦文,俞灏明</p>
 								</div>
 							</div>
 							</li>
@@ -644,23 +644,23 @@ img{max-width: 100%; height: auto;}
 						</ul>
 						<ul class="stui-vodlist__rank col-pd clearfix">
 						
-							<li><a href="/wapdetail/?513.html" title="绝命毒师第二季"><span class="text-muted pull-right">完结</span><span class="badge badge-second">2</span>绝命毒师第二季</a></li>
+							<li><a href="/wapdetail/?537.html" title="我的恶魔少爷"><span class="text-muted pull-right">更新到28集</span><span class="badge badge-second">2</span>我的恶魔少爷</a></li>
 						
-							<li><a href="/wapdetail/?308.html" title="你和我的倾城时光"><span class="text-muted pull-right">更新到42集</span><span class="badge badge-third">3</span>你和我的倾城时光</a></li>
+							<li><a href="/wapdetail/?563.html" title="特种兵之深入敌后"><span class="text-muted pull-right">更新到24集</span><span class="badge badge-third">3</span>特种兵之深入敌后</a></li>
 						
-							<li><a href="/wapdetail/?517.html" title="兄弟连第一季"><span class="text-muted pull-right">完结</span><span class="badge ">4</span>兄弟连第一季</a></li>
+							<li><a href="/wapdetail/?308.html" title="你和我的倾城时光"><span class="text-muted pull-right">更新到50集</span><span class="badge ">4</span>你和我的倾城时光</a></li>
 						
-							<li><a href="/wapdetail/?537.html" title="我的恶魔少爷"><span class="text-muted pull-right">更新到16集</span><span class="badge ">5</span>我的恶魔少爷</a></li>
+							<li><a href="/wapdetail/?303.html" title="原来你还在这里"><span class="text-muted pull-right">更新到18集</span><span class="badge ">5</span>原来你还在这里</a></li>
 						
-							<li><a href="/wapdetail/?303.html" title="原来你还在这里"><span class="text-muted pull-right">更新到18集</span><span class="badge ">6</span>原来你还在这里</a></li>
+							<li><a href="/wapdetail/?297.html" title="我在大理寺当宠物"><span class="text-muted pull-right">22集全</span><span class="badge ">6</span>我在大理寺当宠物</a></li>
 						
-							<li><a href="/wapdetail/?512.html" title="绝命毒师第一季"><span class="text-muted pull-right">完结</span><span class="badge ">7</span>绝命毒师第一季</a></li>
+							<li><a href="/wapdetail/?304.html" title="风再起时"><span class="text-muted pull-right">更新到32集</span><span class="badge ">7</span>风再起时</a></li>
 						
-							<li><a href="/wapdetail/?297.html" title="我在大理寺当宠物"><span class="text-muted pull-right">22集全</span><span class="badge ">8</span>我在大理寺当宠物</a></li>
+							<li><a href="/wapdetail/?305.html" title="惊蛰"><span class="text-muted pull-right">39集全</span><span class="badge ">8</span>惊蛰</a></li>
 						
-							<li><a href="/wapdetail/?304.html" title="风再起时"><span class="text-muted pull-right">更新到32集</span><span class="badge ">9</span>风再起时</a></li>
+							<li><a href="/wapdetail/?299.html" title="创业时代"><span class="text-muted pull-right">54集全</span><span class="badge ">9</span>创业时代</a></li>
 						
-							<li><a href="/wapdetail/?305.html" title="惊蛰"><span class="text-muted pull-right">39集全</span><span class="badge ">10</span>惊蛰</a></li>
+							<li><a href="/wapdetail/?307.html" title="我们的四十年"><span class="text-muted pull-right">60集全</span><span class="badge ">10</span>我们的四十年</a></li>
 						
 						</ul>
 					</div>
@@ -717,7 +717,7 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?529.html" title="挑战吧！太空第一季" data-original="http://r1.ykimg.com/051600005BC697068B7774115C058FD9"><span class="play hidden-xs"></span><span class="pic-text text-right">20181204期</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?529.html" title="挑战吧！太空第一季" data-original="http://r1.ykimg.com/051600005BC697068B7774115C058FD9"><span class="play hidden-xs"></span><span class="pic-text text-right">20181215期</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?529.html" title="挑战吧！太空第一季">挑战吧！太空第一季</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">王宝强,张雨绮,田亮,吴宣仪</p>
@@ -727,10 +727,130 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?532.html" title="新西游记第五季" data-original="/uploads/allimg/181122/12c55aa579ab443c.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181202期</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?573.html" title="国家宝藏第二季" data-original="/uploads/allimg/181217/09c2660978439777.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181216期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?573.html" title="国家宝藏第二季">国家宝藏第二季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">张国立,蓝天野,黎明,蒋雯丽</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?539.html" title="蒙面唱将猜猜猜第三季" data-original="https://gss0.bdstatic.com/94o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=40ef7c9ccefdfc03e578e4beec04e0a9/242dd42a2834349b8b28e4e7c4ea15ce36d3bea2.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181216期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?539.html" title="蒙面唱将猜猜猜第三季">蒙面唱将猜猜猜第三季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">陶晶莹,巫启贤,大张伟,陈嘉桦</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?524.html" title="吐槽大会第三季" data-original="http://i.gtimg.cn/qqlive/images/newcolumn/v1/6/6iv334.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181216期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?524.html" title="吐槽大会第三季">吐槽大会第三季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">张绍刚,李诞,池子,程璐</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?501.html" title="RunningMan(2018)" data-original="http://zy.000td.com//Uploads/vod/2018-05-13/5af84eebe8fe9.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181216期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?501.html" title="RunningMan(2018)">RunningMan(2018)</a></h4>
+									<p class="text text-overflow text-muted hidden-xs"> 刘在石 / 河东勋 / 李光洙 / 金钟国 / 池石镇 </p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?293.html" title="明星大侦探第四季" data-original="https://puui.qpic.cn/vcolumn_vt_pic/0/z77tt11540534295/0"><span class="play hidden-xs"></span><span class="pic-text text-right">第20181214期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?293.html" title="明星大侦探第四季">明星大侦探第四季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs"> 何炅 撒贝宁 吴映洁 </p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?294.html" title="Hi室友" data-original="https://puui.qpic.cn/vcolumn_vt_pic/0/zpj8lq1538016255/0"><span class="play hidden-xs"></span><span class="pic-text text-right">20181212期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?294.html" title="Hi室友">Hi室友</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">金星,陈立农,周洁琼,王彦霖</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?535.html" title="火箭少女101研究所" data-original="http://i.gtimg.cn/qqlive/images/newcolumn/v1/2/216a0k.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181213期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?535.html" title="火箭少女101研究所">火箭少女101研究所</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">孟美岐,吴宣仪,杨超越,段奥娟</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?527.html" title="火星情报局第四季" data-original="http://r1.ykimg.com/051600005BADEFE9AD881AA7740C7E7F"><span class="play hidden-xs"></span><span class="pic-text text-right">20181214期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?527.html" title="火星情报局第四季">火星情报局第四季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">汪涵,李希侃,娄滋博,李诞</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?526.html" title="这！就是灌篮第一季" data-original="http://huanjugu.com/upload/vod/20180826/6295fb839e8a1b0637e94d1288b4b7f8.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181121期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?526.html" title="这！就是灌篮第一季">这！就是灌篮第一季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">周杰伦,李易峰,林书豪,郭艾伦</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?532.html" title="新西游记第五季" data-original="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3306312730,648995541&fm=173&app=25&f=JPEG?w=640&h=871&s=ADA2019F08DA67ED4E203DE20300A030"><span class="play hidden-xs"></span><span class="pic-text text-right">20181202期</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?532.html" title="新西游记第五季">新西游记第五季</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">姜镐童,李寿根,殷志源,安宰贤</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?521.html" title="我就是演员" data-original="http://i.gtimg.cn/qqlive/images/newcolumn/v1/i/i2ul87.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181208期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?521.html" title="我就是演员">我就是演员</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">章子怡,徐峥,吴秀波,陈凯歌</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?548.html" title="超新星全运会 2018年" data-original="https://i.gtimg.cn/qqlive/images/newcolumn/v1/e/ey67ww.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">第20181125期</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?548.html" title="超新星全运会 2018年">超新星全运会 2018年</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">内详</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?549.html" title="超新星全运会·悠享版 2018年" data-original="https://i.gtimg.cn/qqlive/images/newcolumn/v1/e/ey67ww.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right"></span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?549.html" title="超新星全运会·悠享版 2018年">超新星全运会·悠享版 2018年</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">内详</p>
 								</div>
 							</div>
 							</li>
@@ -741,126 +861,6 @@ img{max-width: 100%; height: auto;}
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?522.html" title="少年说第二季">少年说第二季</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">内详</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?521.html" title="我就是演员" data-original="http://i.gtimg.cn/qqlive/images/newcolumn/v1/i/i2ul87.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181201期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?521.html" title="我就是演员">我就是演员</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">章子怡,徐峥,吴秀波,陈凯歌</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?293.html" title="明星大侦探第四季" data-original="https://puui.qpic.cn/vcolumn_vt_pic/0/z77tt11540534295/0"><span class="play hidden-xs"></span><span class="pic-text text-right">20181123期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?293.html" title="明星大侦探第四季">明星大侦探第四季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">何炅,撒贝宁,白敬亭,吴映洁</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?292.html" title="奇葩说第五季" data-original="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=0e589473282dd42a5f0906ad3b003c88/dcc451da81cb39db6f8fa64cdd160924ab183059.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181124期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?292.html" title="奇葩说第五季">奇葩说第五季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">马东,高晓松,蔡康永,李诞</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?524.html" title="吐槽大会第三季" data-original="http://i.gtimg.cn/qqlive/images/newcolumn/v1/6/6iv334.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181125期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?524.html" title="吐槽大会第三季">吐槽大会第三季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">张绍刚,李诞,池子,程璐</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?539.html" title="蒙面唱将猜猜猜第三季" data-original="/uploads/allimg/181126/84a042f7665bd84c.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181125期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?539.html" title="蒙面唱将猜猜猜第三季">蒙面唱将猜猜猜第三季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">陶晶莹,巫启贤,大张伟,陈嘉桦</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?501.html" title="RunningMan(2018)" data-original="http://zy.000td.com//Uploads/vod/2018-05-13/5af84eebe8fe9.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181125期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?501.html" title="RunningMan(2018)">RunningMan(2018)</a></h4>
-									<p class="text text-overflow text-muted hidden-xs"> 刘在石 / 河东勋 / 李光洙 / 金钟国 / 池石镇 </p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?535.html" title="火箭少女101研究所" data-original="/uploads/allimg/181123/462772901da033c5.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181122期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?535.html" title="火箭少女101研究所">火箭少女101研究所</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">孟美岐,吴宣仪,杨超越,段奥娟</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?527.html" title="火星情报局第四季" data-original="/uploads/allimg/181122/8bd378033b79809f.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181123期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?527.html" title="火星情报局第四季">火星情报局第四季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">汪涵,李希侃,娄滋博,李诞</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?484.html" title="超新星全运会" data-original="https://puui.qpic.cn/vcolumn_vt_pic/0/e7m2o61540257358/0"><span class="play hidden-xs"></span><span class="pic-text text-right">20181122期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?484.html" title="超新星全运会">超新星全运会</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">孟美岐,吴宣仪,杨超越,段奥娟</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?526.html" title="这！就是灌篮第一季" data-original="/uploads/allimg/181122/5ec8113c6bc5458a.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">20181121期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?526.html" title="这！就是灌篮第一季">这！就是灌篮第一季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">周杰伦,李易峰,林书豪,郭艾伦</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?291.html" title="妻子的浪漫旅行" data-original="https://puui.qpic.cn/vcolumn_vt_pic/0/kpp7q71536105988/0"><span class="play hidden-xs"></span><span class="pic-text text-right">20181121期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?291.html" title="妻子的浪漫旅行">妻子的浪漫旅行</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">张杰,谢娜,应采儿,陈小春</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?294.html" title="Hi室友" data-original="https://puui.qpic.cn/vcolumn_vt_pic/0/zpj8lq1538016255/0"><span class="play hidden-xs"></span><span class="pic-text text-right">20181114期</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?294.html" title="Hi室友">Hi室友</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">金星,陈立农,周洁琼,王彦霖</p>
 								</div>
 							</div>
 							</li>
@@ -896,23 +896,23 @@ img{max-width: 100%; height: auto;}
 						</ul>
 						<ul class="stui-vodlist__rank col-pd clearfix">
 						
-							<li><a href="/wapdetail/?292.html" title="奇葩说第五季"><span class="text-muted pull-right">20181124期</span><span class="badge badge-second">2</span>奇葩说第五季</a></li>
+							<li><a href="/wapdetail/?293.html" title="明星大侦探第四季"><span class="text-muted pull-right">20181214</span><span class="badge badge-second">2</span>明星大侦探第四季</a></li>
 						
-							<li><a href="/wapdetail/?291.html" title="妻子的浪漫旅行"><span class="text-muted pull-right">20181121期</span><span class="badge badge-third">3</span>妻子的浪漫旅行</a></li>
+							<li><a href="/wapdetail/?549.html" title="超新星全运会·悠享版 2018年"><span class="text-muted pull-right"></span><span class="badge badge-third">3</span>超新星全运会·悠..</a></li>
 						
-							<li><a href="/wapdetail/?522.html" title="少年说第二季"><span class="text-muted pull-right">20181129期</span><span class="badge ">4</span>少年说第二季</a></li>
+							<li><a href="/wapdetail/?548.html" title="超新星全运会 2018年"><span class="text-muted pull-right">20181125</span><span class="badge ">4</span>超新星全运会 2..</a></li>
 						
-							<li><a href="/wapdetail/?293.html" title="明星大侦探第四季"><span class="text-muted pull-right">20181123期</span><span class="badge ">5</span>明星大侦探第四季</a></li>
+							<li><a href="/wapdetail/?292.html" title="奇葩说第五季"><span class="text-muted pull-right">20181124期</span><span class="badge ">5</span>奇葩说第五季</a></li>
 						
-							<li><a href="/wapdetail/?294.html" title="Hi室友"><span class="text-muted pull-right">20181114期</span><span class="badge ">6</span>Hi室友</a></li>
+							<li><a href="/wapdetail/?527.html" title="火星情报局第四季"><span class="text-muted pull-right">20181214期</span><span class="badge ">6</span>火星情报局第四季</a></li>
 						
-							<li><a href="/wapdetail/?501.html" title="RunningMan(2018)"><span class="text-muted pull-right">20181125期</span><span class="badge ">7</span>RunningM..</a></li>
+							<li><a href="/wapdetail/?291.html" title="妻子的浪漫旅行"><span class="text-muted pull-right">20181121期</span><span class="badge ">7</span>妻子的浪漫旅行</a></li>
 						
-							<li><a href="/wapdetail/?524.html" title="吐槽大会第三季"><span class="text-muted pull-right">20181125期</span><span class="badge ">8</span>吐槽大会第三季</a></li>
+							<li><a href="/wapdetail/?501.html" title="RunningMan(2018)"><span class="text-muted pull-right">20181216期</span><span class="badge ">8</span>RunningM..</a></li>
 						
-							<li><a href="/wapdetail/?521.html" title="我就是演员"><span class="text-muted pull-right">20181201期</span><span class="badge ">9</span>我就是演员</a></li>
+							<li><a href="/wapdetail/?522.html" title="少年说第二季"><span class="text-muted pull-right">20181129期</span><span class="badge ">9</span>少年说第二季</a></li>
 						
-							<li><a href="/wapdetail/?526.html" title="这！就是灌篮第一季"><span class="text-muted pull-right">20181121期</span><span class="badge ">10</span>这！就是灌篮第一..</a></li>
+							<li><a href="/wapdetail/?532.html" title="新西游记第五季"><span class="text-muted pull-right">20181202期</span><span class="badge ">10</span>新西游记第五季</a></li>
 						
 						</ul>
 					</div>
@@ -969,37 +969,27 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?544.html" title="东京食尸鬼第四季" data-original="http://news.youth.cn/sh/201506/W020150611345849759994.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?580.html" title="战栗杀机" data-original="/uploads/allimg/181217/6fdbe37b827ec233.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到23集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?544.html" title="东京食尸鬼第四季">东京食尸鬼第四季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">花江夏树,石川界人,藤原夏海,佐仓绫音</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?580.html" title="战栗杀机">战栗杀机</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">内田雄马,野岛健儿,石冢运升,平田广明</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?486.html" title="妖神记之影妖篇" data-original="http://puui.qpic.cn/vcover_vt_pic/0/psigi8ihauekx1d1537514156/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到23集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?550.html" title="斗罗大陆 第1季" data-original="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=0e704acdaa86c9170803553ff10617f2/0df3d7ca7bcb0a4669a5250c6663f6246b60af04.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到30集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?486.html" title="妖神记之影妖篇">妖神记之影妖篇</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">内详</p>
+									<h4 class="title text-overflow"><a href="/wapdetail/?550.html" title="斗罗大陆 第1季">斗罗大陆 第1季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">沈磊,翟巍,吴磊,陶典,程玉珠,黄翔宇</p>
 								</div>
 							</div>
 							</li>
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?538.html" title="火影忍者-博人传-次世代继承者" data-original="/uploads/allimg/181126/d9f657aaca7cb097.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到84集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?538.html" title="火影忍者-博人传-次世代继承者">火影忍者-博人传-次世代继承者</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">三瓶由布子,菊池心,木岛隆一,小野贤章,阿部敦,早见沙织</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?500.html" title="刀剑神域3" data-original="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=68de515baa1ea8d38a227302af315773/42166d224f4a20a41d07da279c529822720ed031.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?500.html" title="刀剑神域3" data-original="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=68de515baa1ea8d38a227302af315773/42166d224f4a20a41d07da279c529822720ed031.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到11集</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?500.html" title="刀剑神域3">刀剑神域3</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">松冈祯丞,茅野爱衣,岛崎信长,户松遥</p>
@@ -1009,7 +999,7 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?499.html" title="哥布林杀手" data-original="http://puui.qpic.cn/vcover_vt_pic/0/5yxjpv8397ngrhc1532404504/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?499.html" title="哥布林杀手" data-original="http://puui.qpic.cn/vcover_vt_pic/0/5yxjpv8397ngrhc1532404504/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到10.5集</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?499.html" title="哥布林杀手">哥布林杀手</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">梅原裕一郎,小仓唯,井口裕香,内田真礼</p>
@@ -1019,77 +1009,7 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?496.html" title="妖精的尾巴 最终季" data-original="http://puui.qpic.cn/vcover_vt_pic/0/wwpst03t5lmd3m41537410756/0"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?496.html" title="妖精的尾巴 最终季">妖精的尾巴 最终季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">柿原彻也,平野绫,钉宫理惠,中村悠一</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?542.html" title="天空与海洋之间" data-original="/uploads/allimg/181126/73b06512fdefbf91.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?542.html" title="天空与海洋之间">天空与海洋之间</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">高桥花林,立花理香,井上穗乃花,铃木桃子</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?531.html" title="苍天之拳REGENESIS第二季" data-original="http://www.dilidili.wang/uploads/allimg/180314/290_1536274551.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?531.html" title="苍天之拳REGENESIS第二季">苍天之拳REGENESIS第二季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">山寺宏一,上坂堇,子安武人,佐藤节次</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?488.html" title="星辰变" data-original="http://puui.qpic.cn/vcover_vt_pic/0/0s8n49g3g1rv1oz1529090002/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?488.html" title="星辰变">星辰变</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">内详</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?487.html" title="剑网3·侠肝义胆沈剑心" data-original="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=2161ab7477899e51788e3d127a9cbe0e/902397dda144ad344d19ff0edca20cf430ad8590.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到11集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?487.html" title="剑网3·侠肝义胆沈剑心">剑网3·侠肝义胆沈剑心</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">宝木中阳,藤新,图特哈蒙,黎筱濛</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?489.html" title="魔法禁书目录3" data-original="http://puui.qpic.cn/vcover_vt_pic/0/u3r3qhz2icswkw11537951448/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到08集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?489.html" title="魔法禁书目录3">魔法禁书目录3</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">阿部敦,井口裕香,佐藤利奈,冈本信彦</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?485.html" title="全职法师第三季" data-original="http://puui.qpic.cn/vcover_vt_pic/0/8vdu7i5hr7anq5q1535824602/0"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到08集</span></a>
-								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?485.html" title="全职法师第三季">全职法师第三季</a></h4>
-									<p class="text text-overflow text-muted hidden-xs">内详</p>
-								</div>
-							</div>
-							</li>
-						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
-							<li class="col-md-5 col-sm-4 col-xs-3">
-							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?492.html" title="名侦探柯南" data-original="http://img31.mtime.cn/mt/2014/02/23/045110.70221116_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新至第934集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?492.html" title="名侦探柯南" data-original="http://img31.mtime.cn/mt/2014/02/23/045110.70221116_270X405X4.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新至第937集</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?492.html" title="名侦探柯南">名侦探柯南</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">内详</p>
@@ -1099,7 +1019,17 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?493.html" title="海贼王" data-original="http://puui.qpic.cn/vcover_vt_pic/0/sdp001pd7uh6khh1542172185/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新至863集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?496.html" title="妖精的尾巴 最终季" data-original="http://puui.qpic.cn/vcover_vt_pic/0/wwpst03t5lmd3m41537410756/0"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到11集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?496.html" title="妖精的尾巴 最终季">妖精的尾巴 最终季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">柿原彻也,平野绫,钉宫理惠,中村悠一</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?493.html" title="海贼王" data-original="http://puui.qpic.cn/vcover_vt_pic/0/sdp001pd7uh6khh1542172185/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新至865集</span></a>
 								<div class="stui-vodlist__detail">
 									<h4 class="title text-overflow"><a href="/wapdetail/?493.html" title="海贼王">海贼王</a></h4>
 									<p class="text text-overflow text-muted hidden-xs"> 田中真弓 / 冈村明美 / 中井和哉 / 平田广明 / 山口胜平</p>
@@ -1109,9 +1039,79 @@ img{max-width: 100%; height: auto;}
 						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
 							<li class="col-md-5 col-sm-4 col-xs-3">
 							<div class="stui-vodlist__box">
-								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?536.html" title="山河社稷图" data-original="/uploads/allimg/181123/20721383d7639129.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到05集</span></a>
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?538.html" title="火影忍者-博人传-次世代继承者" data-original="http://img.kan300.com/201703/hyrzbrz.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到86集</span></a>
 								<div class="stui-vodlist__detail">
-									<h4 class="title text-overflow"><a href="/wapdetail/?536.html" title="山河社稷图">山河社稷图</a></h4>
+									<h4 class="title text-overflow"><a href="/wapdetail/?538.html" title="火影忍者-博人传-次世代继承者">火影忍者-博人传-次世代继承者</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">三瓶由布子,菊池心,木岛隆一,小野贤章,阿部敦,早见沙织</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?486.html" title="妖神记之影妖篇" data-original="http://puui.qpic.cn/vcover_vt_pic/0/psigi8ihauekx1d1537514156/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到26集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?486.html" title="妖神记之影妖篇">妖神记之影妖篇</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">内详</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?542.html" title="天空与海洋之间" data-original="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=2e4d4a4c281f95caa6f595b0f12c1803/91529822720e0cf36e8d01c90746f21fbe09aa8e.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到11集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?542.html" title="天空与海洋之间">天空与海洋之间</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">高桥花林,立花理香,井上穗乃花,铃木桃子</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?490.html" title="画江湖之不良人3" data-original="http://puui.qpic.cn/vcover_vt_pic/0/enj7gj9pcksq89p1538025642/260"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到09集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?490.html" title="画江湖之不良人3">画江湖之不良人3</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">边江,朱雀橙,阎萌萌,赵毅</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?544.html" title="东京食尸鬼第四季" data-original="http://news.youth.cn/sh/201506/W020150611345849759994.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到10集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?544.html" title="东京食尸鬼第四季">东京食尸鬼第四季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">花江夏树,石川界人,藤原夏海,佐仓绫音</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?495.html" title="轩辕剑苍之曜" data-original="http://puui.qpic.cn/vcover_vt_pic/0/b2v027xfpqh2xw11540997953/0"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到11集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?495.html" title="轩辕剑苍之曜">轩辕剑苍之曜</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">水树奈奈,钉宫理惠,松冈祯丞,津田健次郎</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?528.html" title="我是江小白第二季" data-original="https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=1a55d01c5a4e9258a63481e8a4b9b665/a8ec8a13632762d0e4759cc7acec08fa513dc67a.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到04集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?528.html" title="我是江小白第二季">我是江小白第二季</a></h4>
+									<p class="text text-overflow text-muted hidden-xs">陈张太康,佟心竹,杨凝,李兰陵</p>
+								</div>
+							</div>
+							</li>
+						<!-- 前面的原版数字是10，我修改了15，修复手机首页显示卡片缺少块问题 -->
+							<li class="col-md-5 col-sm-4 col-xs-3">
+							<div class="stui-vodlist__box">
+								<a class="stui-vodlist__thumb lazyload" href="/wapdetail/?485.html" title="全职法师第三季" data-original="http://puui.qpic.cn/vcover_vt_pic/0/8vdu7i5hr7anq5q1535824602/0"><span class="play hidden-xs"></span><span class="pic-text text-right">更新到10集</span></a>
+								<div class="stui-vodlist__detail">
+									<h4 class="title text-overflow"><a href="/wapdetail/?485.html" title="全职法师第三季">全职法师第三季</a></h4>
 									<p class="text text-overflow text-muted hidden-xs">内详</p>
 								</div>
 							</div>
@@ -1132,15 +1132,15 @@ img{max-width: 100%; height: auto;}
 						
 							<li>
 							<div class="thumb">
-								<a class="m-thumb stui-vodlist__thumb lazyload" href="/wapdetail/?485.html" title="全职法师第三季" data-original="http://puui.qpic.cn/vcover_vt_pic/0/8vdu7i5hr7anq5q1535824602/0"><span class="pic-tag pic-tag-h">1</span></a>
+								<a class="m-thumb stui-vodlist__thumb lazyload" href="/wapdetail/?544.html" title="东京食尸鬼第四季" data-original="http://news.youth.cn/sh/201506/W020150611345849759994.jpg"><span class="pic-tag pic-tag-h">1</span></a>
 							</div>
 							<div class="detail detail-side">
-								<h4 class="title"><a href="/wapdetail/?485.html"><i class="icon iconfont icon-more text-muted pull-right"></i>全职法师第三季</a></h4>
+								<h4 class="title"><a href="/wapdetail/?544.html"><i class="icon iconfont icon-more text-muted pull-right"></i>东京食尸鬼第四季</a></h4>
 								<p class="font-12">
-									<span class="text-muted">类型：</span>动漫<span class="text-muted">地区：</span>大陆
+									<span class="text-muted">类型：</span>动漫<span class="text-muted">地区：</span>日本
 								</p>
 								<p class="font-12 margin-0">
-									<span class="text-muted">主演：</span>内详
+									<span class="text-muted">主演：</span>花江夏树,石川界人,藤原夏..
 								</p>
 							</div>
 							</li>
@@ -1148,23 +1148,23 @@ img{max-width: 100%; height: auto;}
 						</ul>
 						<ul class="stui-vodlist__rank col-pd clearfix">
 						
-							<li><a href="/wapdetail/?482.html" title="超人总动员2"><span class="text-muted pull-right">BD1280高清中英双字版</span><span class="badge badge-second">2</span>超人总动员2</a></li>
+							<li><a href="/wapdetail/?492.html" title="名侦探柯南"><span class="text-muted pull-right">更新至第937集</span><span class="badge badge-second">2</span>名侦探柯南</a></li>
 						
-							<li><a href="/wapdetail/?492.html" title="名侦探柯南"><span class="text-muted pull-right">更新至第934集</span><span class="badge badge-third">3</span>名侦探柯南</a></li>
+							<li><a href="/wapdetail/?493.html" title="海贼王"><span class="text-muted pull-right">更新至865集</span><span class="badge badge-third">3</span>海贼王</a></li>
 						
-							<li><a href="/wapdetail/?499.html" title="哥布林杀手"><span class="text-muted pull-right">更新到09集</span><span class="badge ">4</span>哥布林杀手</a></li>
+							<li><a href="/wapdetail/?551.html" title="斗罗大陆"><span class="text-muted pull-right">更新至第29集</span><span class="badge ">4</span>斗罗大陆</a></li>
 						
-							<li><a href="/wapdetail/?538.html" title="火影忍者-博人传-次世代继承者"><span class="text-muted pull-right">更新到84集</span><span class="badge ">5</span>火影忍者-博人传..</a></li>
+							<li><a href="/wapdetail/?485.html" title="全职法师第三季"><span class="text-muted pull-right">更新到10集</span><span class="badge ">5</span>全职法师第三季</a></li>
 						
-							<li><a href="/wapdetail/?486.html" title="妖神记之影妖篇"><span class="text-muted pull-right">更新到23集</span><span class="badge ">6</span>妖神记之影妖篇</a></li>
+							<li><a href="/wapdetail/?486.html" title="妖神记之影妖篇"><span class="text-muted pull-right">更新到26集</span><span class="badge ">6</span>妖神记之影妖篇</a></li>
 						
-							<li><a href="/wapdetail/?487.html" title="剑网3·侠肝义胆沈剑心"><span class="text-muted pull-right">更新到11集</span><span class="badge ">7</span>剑网3·侠肝义胆..</a></li>
+							<li><a href="/wapdetail/?499.html" title="哥布林杀手"><span class="text-muted pull-right">更新到10.5集</span><span class="badge ">7</span>哥布林杀手</a></li>
 						
-							<li><a href="/wapdetail/?488.html" title="星辰变"><span class="text-muted pull-right">更新到09集</span><span class="badge ">8</span>星辰变</a></li>
+							<li><a href="/wapdetail/?500.html" title="刀剑神域3"><span class="text-muted pull-right">更新到11集</span><span class="badge ">8</span>刀剑神域3</a></li>
 						
-							<li><a href="/wapdetail/?489.html" title="魔法禁书目录3"><span class="text-muted pull-right">更新到08集</span><span class="badge ">9</span>魔法禁书目录3</a></li>
+							<li><a href="/wapdetail/?482.html" title="超人总动员2"><span class="text-muted pull-right">BD1280高清中英双字版</span><span class="badge ">9</span>超人总动员2</a></li>
 						
-							<li><a href="/wapdetail/?490.html" title="画江湖之不良人3"><span class="text-muted pull-right">更新到05集</span><span class="badge ">10</span>画江湖之不良人3</a></li>
+							<li><a href="/wapdetail/?580.html" title="战栗杀机"><span class="text-muted pull-right">更新到23集</span><span class="badge ">10</span>战栗杀机</a></li>
 						
 						</ul>
 					</div>
@@ -1236,9 +1236,9 @@ img{max-width: 100%; height: auto;}
           <!--<p class="text-muted hidden-sm hidden-xs">本网站内容收集于互联网，《大饼影视手机版》不承担任何由于内容的合法性及健康性所引起的争议和法律责任。<br> 本站永久免费更新最新电影与剧集，欢迎大家使用并推荐朋友。</p>-->
 			<p class="margin-0 text-muted" style="text-align: center;">2018-2019
               <span> | </span> 
-              视频总数：247
+              视频总数：257
               <span> | </span>
-              今天更新：9
+              今天更新：3
               <span> | </span>
               {seacms:runinfo}</p>
           
@@ -1252,23 +1252,13 @@ img{max-width: 100%; height: auto;}
 <ul class="stui-extra clearfix">
 	<li><a class="backtop" href="javascript:scroll(0,0)" style="display: none;"><i class="icon iconfont icon-less"></i></a></li>
 	<li class="visible-xs"><a class="open-share" href="javascript:;"><i class="icon iconfont icon-share"></i></a></li>
-	<li class="hidden-xs"><span><i class="icon iconfont icon-qrcode"></i></span>
-	<div class="sideslip">
-		<div class="col-pd">
-			<img class="qrcode" width="150" height="150"/>
-			<p class="text-center font-12">
-				<strong>手机扫码访问这个页面</strong>
-			</p>
-		</div>
-	</div>
-	</li>
 </ul>
 <div class="hide">
 <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?951e1c4e49fc2c956865811f5f7a4d84";
+  hm.src = "https://hm.baidu.com/hm.js?d723a58bef748365633cf4a41c94bbf9";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();

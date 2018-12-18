@@ -20,6 +20,8 @@
 
 // ** MySQL 设置 - 具体信息来自您正在使用的主机 ** //
 /** WordPress数据库的名称 */
+define('WP_CACHE', true);
+define( 'WPCACHEHOME', '/home/ftp/x/xmelhguw/wwwroot/wordpress/wp-content/plugins/wp-super-cache/' );
 define('DB_NAME', 'xmelhguw');
 
 /** MySQL数据库用户名 */
