@@ -1,0 +1,2 @@
+﻿.featured:after,.featured:before,.navbar:after,.navbar:before,.site-footer:after,.site-footer:before{display:table;content:''}
+.featured:after,.navbar:after,.site-footer:after{clear:both}

@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $cfg_runmode = '1';
 $cfg_stoptime = '3';
 $cfg_makemode = 'dir1';
@@ -56,7 +56,7 @@ $cfg_newspage_name2a = 'index';
 $cfg_newspartpage_name2 = 'index';
 $cfg_articlepage_name2 = 'index';
 $cfg_webname = '大饼影视手机版';
-$cfg_basehost = 'http://m.yfmovie.top/wap';
+$cfg_basehost = 'http://www.lookoro.cn/wap';
 $cfg_cmspath = '';
 $cfg_cookie_encode = '';
 $cfg_gatherset = '3';
@@ -99,5 +99,5 @@ var _hmt = _hmt || [];
 ';
 $cfg_description = '';
 $cfg_site_notice = '';
-$cfg_powerby = 'Copyright © 2015-2018  All Rights Reserved';
+$cfg_powerby = 'Copyright � 2015-2018  All Rights Reserved';
 ?>
