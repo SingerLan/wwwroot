@@ -22,16 +22,16 @@
 /** WordPress数据库的名称 */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', '/home/ftp/x/xmelhguw/wwwroot/wordpress/wp-content/plugins/wp-super-cache/' );
-define('DB_NAME', 'xmelhguw');
+define('DB_NAME', '');
 
 /** MySQL数据库用户名 */
-define('DB_USER', 'xmelhguw');
+define('DB_USER', '');
 
 /** MySQL数据库密码 */
-define('DB_PASSWORD', 'l42h38ZPop');
+define('DB_PASSWORD', '');
 
 /** MySQL主机 */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8mb4');
